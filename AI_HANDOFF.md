@@ -40,7 +40,7 @@ Supported grammar: same-angle sin, cos, tan, cot, sec, csc; integer constants, a
 
 Recorded V4.1 checks (from the original release review package; not rerun during documentation): 1,224 accepted generated expressions out of 1,232; 4,896 exact rational checks; 6,120 cardinal/domain checks; 24,480 180-digit mpmath comparisons; max scaled error 2.2385e−13; 48 SymPy singularity checks passed. Browser checks passed all five challenges and reported no page errors; 390 px mobile viewport had no horizontal overflow. A later external AI reported 40,000-expression fuzz testing without failures on supported inputs; treat this as a reported review, not an independently reproduced result.
 
-The release review package originally supplied `test_v41_math.py` (Python, Node, mpmath, SymPy), `test_v41_browser.py` (Python Playwright and Chromium), recorded results and a SHA-256 checksum. Obtain these artifacts from the original release bundle or the repository if subsequently archived; do not invent test results.
+The release review package originally supplied `test_v41_math.py` (Python, Node, mpmath, SymPy), `test_v41_browser.py` (Python Playwright and Chromium), recorded results and a SHA-256 checksum. These artifacts are archived under [research/verification/v4.1](research/verification/v4.1/). See the [research reproduction guide](research/README.md) for commands using the root-level HTML baseline. The [original Python experiments and recorded results](research/experiments/) are also archived. Do not invent test results.
 
 Minimum regression cases:
 | Input | Expected result / domain |
