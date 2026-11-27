@@ -18,6 +18,7 @@ Download [Trig Atlas V4.1 — Reliability](Trig_Atlas_v4_1_Reliability.html) and
 | [Development history](HISTORY.md) | Origin, design evolution, experiments, reviewer feedback and roadmap |
 | [AI handover](AI_HANDOFF.md) | Technical architecture, mathematical invariants, regression cases and directions for future contributors |
 | [Research paper](research/Trig_Atlas_Research_Paper.md) | Exploratory theory, computational experiments, limitations and references |
+| [Research & reproduction guide](research/README.md) | Original Python scripts, recorded outputs, V4.1 regression suite and exact reproduction commands |
 | [V1 — original octahedron](archive/v1/trig_octahedron.html) | Static trigonometric identity model |
 | [V2 — three circles](archive/v2/trig_octahedron_three_circles.html) | Synchronized circles and geometric relationships |
 | [V3 — calculus](archive/v3/trig_octahedron_calculus.html) | Derivatives, integrals and projection |
@@ -30,7 +31,7 @@ The archived HTML files retain their original contents. Their Git upload dates a
 
 The underlying trigonometry and much of the geometry are established mathematics. The octahedral interface, its integration with symbolic computation, and potential educational benefits are the focus of this exploration. The research paper includes numerical simulations and a limited benchmark, not a general-purpose CAS speed claim or a peer-reviewed result. Linked-module computation and optical sensing remain research directions, not demonstrated hardware.
 
-V4.1 uses exact rational symbolic operations and local tangent-half-angle charts for improved numerical stability near excluded angles. The expression grammar is specialized to one angle and currently restricts division to monomial denominators. Recorded tests are described in the history and handover; they do not prove universal numerical accuracy.
+V4.1 uses exact rational symbolic operations and local tangent-half-angle charts for improved numerical stability near excluded angles. The expression grammar is specialized to one angle and currently restricts division to monomial denominators. Recorded tests and their original source scripts are in the [research folder](research/README.md); they do not prove universal numerical accuracy.
 
 ## Contributing
 
