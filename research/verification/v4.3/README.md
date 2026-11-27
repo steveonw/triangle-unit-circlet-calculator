@@ -21,16 +21,16 @@ The new independent Python/Node/SymPy/mpmath test generated 374 unique inputs, a
 
 ## Reproduce
 
-Install Python 3, Node.js, mpmath, SymPy, Playwright and Chromium. From this package's root:
+Install Python 3, Node.js, mpmath, SymPy, Playwright and Chromium. From the repository root (the standalone review ZIP instead places all scripts and both HTML files at its root):
 
 ```sh
 python -m pip install mpmath sympy playwright
 python -m playwright install chromium
-python test_v43_rational.py Trig_Atlas_v4_3_Rational.html
-python test_v43_browser.py Trig_Atlas_v4_3_Rational.html
-python test_v41_math.py Trig_Atlas_v4_3_Rational.html
-python test_v41_browser.py Trig_Atlas_v4_3_Rational.html
-python test_v42_display.py Trig_Atlas_v4_2_Readability.html Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.3/test_v43_rational.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.3/test_v43_browser.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.1/test_v41_math.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.1/test_v41_browser.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.2/test_v42_display.py Trig_Atlas_v4_2_Readability.html Trig_Atlas_v4_3_Rational.html
 ```
 
 If using an existing Chromium executable, set CHROMIUM_PATH to its path. Browser tests write screenshots into browser_screenshots/. Results in this package are the actual recorded runs. The old V4.1 and V4.2 tests were not rewritten to make V4.3 pass. The new reference evaluator uses exact rationals for integer constants, including divisions and negative powers.
