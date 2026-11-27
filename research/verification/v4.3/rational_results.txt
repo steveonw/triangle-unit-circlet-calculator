@@ -1,0 +1,5 @@
+Seed 20261126; 374 unique inputs; 354 accepted (336 general, 18 legacy); 20 zero-denominator and 0 bounded rejections
+Exact rational chart-value comparisons: 6392; original-domain checks: 9408; 100-digit numerical comparisons: 8715
+Independent SymPy exact chart/domain identities: 280; isolated roots / classifications: 445; finite limits: 249
+Maximum scaled numerical error: (2.870157264219999e-14, ('((csc/cot)/(((sin-cot)*(csc+cot))-cos))', 59.775608052911416, -145.60012647494904, '-145.6001264749449'))
+Failures: 0 []
