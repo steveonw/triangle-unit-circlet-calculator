@@ -91,18 +91,28 @@ The update also caps the integral chart height, uses neutral empty-input guidanc
 
 Verification: the unchanged V4.1 suite passed 24,480 high-precision numerical comparisons, 4,896 exact rational comparisons, 6,120 cardinal/domain comparisons and 48 independent pole/limit checks. The new seeded display suite tested 650 unique expressions (610 accepted, 40 bounded rejections); 544 factored displays passed exact SymPy rational identity proofs, and 5,090 exact display-value comparisons passed. All accepted cases retained identical V4.1 canonical signatures, masks, numeric values and singularities. All five guided practice tasks and desktop/mobile browser checks passed.
 
-General denominators and non-cardinal singularities remain the next architectural research problem, not implemented features.
+At the time of V4.2, general denominators and non-cardinal singularities remained the next architectural research problem.
+
+## V4.3 — general rational denominators
+
+Source: [V4.3](Trig_Atlas_v4_3_Rational.html). The previous V4.1 and V4.2 files remain unchanged.
+
+A new exact rational-function engine handles previously unsupported non-monomial denominators and negative powers. The V4.2 Laurent fast path remains unchanged. Each of four local half-angle charts holds a reduced integer-polynomial fraction and a separate square-free polynomial for the original domain. Before division or inversion, zeros of the divisor numerator are added to the domain exclusions; cancellation does not erase them. Exact Sturm root counts on the two bounded charts centered at 0° and 180° isolate all real exclusions in a period. Denominator multiplicity distinguishes poles from removable holes. Common rational-degree angles are certified; other roots and finite nonrational limits are numerical approximations. Clicking a root selects its numerical representative; no broad epsilon snapping is used.
+
+Examples: 1/(sin²+cos²) = 1 everywhere; sin/(1+cos) is defined at 0° and has a first-order pole at 180°; (sin+cos)/(sin+cos) is 1 with holes at 135° and 315°; 1/(3 sin−1) has poles near 19.4712° and 160.5288°. General rational expressions are bounded in degree, coefficient size, isolation budget and number/separation of roots. A general-purpose CAS is not implemented.
+
+The seeded [verification suite](research/verification/v4.3/README.md) accepted 354 of 374 inputs (336 general, 18 legacy); rejected 20 identically zero divisors; passed 6,392 exact-value comparisons, 9,408 domain checks, 8,715 100-digit numerical comparisons, 280 exact chart/domain identities, 445 isolated-root/classification checks and 249 finite-limit checks. Maximum sampled scaled numerical error 2.87e-14. All V4.1/V4.2 regression suites and new Chromium desktop/mobile interaction tests also passed. This is sampled implementation verification, not a universal numerical error guarantee or educational study.
 
 ## Next research and development priorities
 
 1. Preserve V4.1 as a known-good baseline. Improve output readability and small visual issues in a separate revision, with regression checks.
-2. Introduce general denominators only alongside a mathematically sound domain model. A two-bit sin/cos exclusion mask cannot represent the zeros of sin+cos, for example.
+2. Extend testing of V4.3's general rational engine, especially clustered roots, large coefficients, conditioning and readable general-rational display.
 3. Keep exact equivalence, human-readable form, numerical evaluation and original domain as distinct representations.
 4. Expand randomized differential and browser testing; document unsupported syntax and numerical limits.
 5. Compare against existing tools in a controlled educational study, including retention and error rates.
 6. Revisit calibrated geometric sensing and linked modules only with explicit operations, assumptions and measurable hypotheses.
 
-V4.2 readability is implemented; general denominator support and later research features remain proposals.
+V4.2 readability and bounded V4.3 general denominator support are implemented. Broader rational factorization, numerical optimization, educational validation and later research features remain proposals.
 
 ## Provenance
 
