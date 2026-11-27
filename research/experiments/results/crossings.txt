@@ -1,0 +1,5 @@
+Edges, disjoint edge pairs, skew edge pairs: 12 30 24
+Midpoint alignment and symbolic complement: 24 of 24
+Crossings per random view: {np.int64(2): np.int64(65097), np.int64(6): np.int64(34903)}
+Dominant coordinate predicts crossing count: 100000 of 100000
+Direct numeric comparisons: 2370720 max scaled error 6.33117241996876e-16
