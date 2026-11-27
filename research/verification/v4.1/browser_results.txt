@@ -1,0 +1,2 @@
+Browser desktop: crossing, exact angle, hole/pole, all five practice tasks, reference, calculus PASS; no page errors.
+Mobile viewport 390px: no horizontal overflow.
