@@ -1,0 +1,2 @@
+V4.3 desktop: unity divisor, half-angle domain, oblique repeated poles, cancellation holes, exact-form disclosure, irrational root jump, nearby angle, zero-denominator rejection, root-free divisor and calculus PASS; page errors: []
+V4.3 mobile 390px: general expression and excluded-angle controls PASS; no horizontal overflow
