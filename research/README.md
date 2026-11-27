@@ -74,11 +74,25 @@ The original math test reported 1,224 accepted expressions out of 1,232 generate
 
 The [V4.2 verification report](verification/v4.2/README.md) records the new independent display suite and rerun of the original V4.1 suite against [V4.2](../Trig_Atlas_v4_2_Readability.html). Factored output is presentation-only and does not expand the supported input grammar.
 
+## V4.3 general rational denominator verification
+
+The [V4.3 report](verification/v4.3/README.md) documents the exact rational-chart fallback, root isolation and original-domain tracking. It includes the independent [math test](verification/v4.3/test_v43_rational.py), [browser test](verification/v4.3/test_v43_browser.py), [math results](verification/v4.3/rational_results.txt), [browser results](verification/v4.3/rational_browser_results.txt), and reruns of the preserved V4.1/V4.2 tests. From repository root:
+
+```sh
+python research/verification/v4.3/test_v43_rational.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.3/test_v43_browser.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.1/test_v41_math.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.1/test_v41_browser.py Trig_Atlas_v4_3_Rational.html
+python research/verification/v4.2/test_v42_display.py Trig_Atlas_v4_2_Readability.html Trig_Atlas_v4_3_Rational.html
+```
+
+Dependencies are the same Python/Node.js/mpmath/SymPy/Playwright/Chromium tools documented above. The new suite recorded 445 root classifications and 8,715 high-precision comparisons with no failures, in addition to exact rational and domain checks. The tested app is the [V4.3 file](../Trig_Atlas_v4_3_Rational.html).
+
 ## Review findings and next questions
 
 AI reviews reported independently reproducing core geometry, algebra and projection results. A V4 review identified catastrophic cancellation near a removable singularity in (1−sin θ)^4/cos^8 θ; V4.1 added local tangent-half-angle rational charts, exact cancellation and stable evaluation to address that issue. A subsequent AI review reported a 40,000-expression fuzz test without domain/value failures within the supported grammar, agreement with 50-digit arithmetic near singular angles, and successful browser tests. That report is not an independently archived test harness or a new run by the repository maintainer.
 
-Remaining priorities: readable factored display, careful support for general denominators and non-cardinal singularities, broader regression tests, and a controlled learning study. The current grammar is deliberately restricted. Keep the original-domain model distinct from symbolic equivalence and numerical evaluation. More speculative optical-angle sensing and network applications need comparative experiments before claims of practical benefit.
+Remaining priorities: more readable general-rational factored display, stress tests for clustered roots and numerical conditioning, comparison of equivalent formula costs and stability, and a controlled learning study. The current grammar is deliberately restricted. Keep the original-domain model distinct from symbolic equivalence and numerical evaluation. More speculative optical-angle sensing and network applications need comparative experiments before claims of practical benefit.
 
 ## Archival scope
 
