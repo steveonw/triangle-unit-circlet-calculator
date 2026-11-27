@@ -61,7 +61,7 @@ Visual crossing selection could construct an expression, demonstrate its complem
 
 The reviewer feedback that motivated the next release included numerical cancellation near singular angles, more explicit hole-versus-pole classification, stricter separation of guided practice from example controls, and requests to improve the symbolic output and expression grammar.
 
-## V4.1 — reliability release (current baseline)
+## V4.1 — reliability release (preserved baseline)
 
 Source: [V4.1](Trig_Atlas_v4_1_Reliability.html).
 
@@ -81,6 +81,18 @@ The archived release package recorded these verification results (not new measur
 
 A separate AI review reported fuzzing 40,000 expressions without domain or value errors within the supported grammar, and agreement with 50-digit arithmetic near a singularity. It also identified the most important remaining limitations: verbose expanded output, a restriction to monomial denominators, and small visual/wording issues. These are reviewer-reported observations, not independently rerun results for this commit.
 
+## V4.2 — readable factored identities
+
+Source: [V4.2](Trig_Atlas_v4_2_Readability.html).
+
+V4.2 retains the V4.1 parser, exact canonical algebra, numerical evaluator and original-domain tracking. It adds a presentation-only factor search in either sine or cosine coordinates, exact polynomial division, coefficient-by-coefficient reconstruction checks, and cancellation using v² = (1−u)(1+u). The shorter expression is shown only when its denominator does not introduce exclusions outside the original domain. The canonical form remains available in an expandable panel. A displayed denominator such as (1+sin) is not yet accepted as an input denominator.
+
+The update also caps the integral chart height, uses neutral empty-input guidance, clarifies tangent arrow scaling and corrects the singularity graph legend.
+
+Verification: the unchanged V4.1 suite passed 24,480 high-precision numerical comparisons, 4,896 exact rational comparisons, 6,120 cardinal/domain comparisons and 48 independent pole/limit checks. The new seeded display suite tested 650 unique expressions (610 accepted, 40 bounded rejections); 544 factored displays passed exact SymPy rational identity proofs, and 5,090 exact display-value comparisons passed. All accepted cases retained identical V4.1 canonical signatures, masks, numeric values and singularities. All five guided practice tasks and desktop/mobile browser checks passed.
+
+General denominators and non-cardinal singularities remain the next architectural research problem, not implemented features.
+
 ## Next research and development priorities
 
 1. Preserve V4.1 as a known-good baseline. Improve output readability and small visual issues in a separate revision, with regression checks.
@@ -90,7 +102,7 @@ A separate AI review reported fuzzing 40,000 expressions without domain or value
 5. Compare against existing tools in a controlled educational study, including retention and error rates.
 6. Revisit calibrated geometric sensing and linked modules only with explicit operations, assumptions and measurable hypotheses.
 
-No V4.2/V4.3/V5 feature is implied to be implemented by this roadmap.
+V4.2 readability is implemented; general denominator support and later research features remain proposals.
 
 ## Provenance
 
