@@ -122,6 +122,12 @@ An AI reviewer (Claude, Anthropic) wrote a test suite separate from the release 
 
 The same reviewer's earlier conversational fuzz figures for V4.1 ("40,000") and V4.3 ("3,000") came from a generator that repeated after 10,466 draws (287 and 267 distinct expressions). They are superseded by the archived runs.
 
+## V4.4 optimization experiment (not a release)
+
+The independent reviewer's worst-case Laurent evaluation prompted a numerical strategy comparison. In-memory instrumentation of the preserved V4.3 engine (identical to V4.3.1) tested five earlier-exact strategies against conventional, expanded and readable-expression evaluation on 2,025 distinct expressions (2,013 accepted), with 15,211 180-digit reference points. A 1e-6 Horner cancellation cutoff reduced the random Laurent sample's maximum scaled error from 3.75e-10 to 3.52e-14, and the reviewer's particular error from 2.83e-11 to 1.75e-16. Median measured Laurent times were 767 and 783 ns/evaluation, respectively, with overlapping timing ranges. 8,052 exact independent cardinal-domain checks and 45,370 threshold-variant boundary comparisons found no differences.
+
+A second experiment isolated the rounding of the half-angle coordinate as the limiting error near some off-axis poles. Selected root-centered identities, tested at six exact roots and 48 points, substantially improved numerical accuracy near those roots. Neither change has been deployed; V4.3.1 is still the latest release. See the [optimization research report](research/verification/v4.4-optimizer/README.md) and its separately distributed reproduction package. These are sampled research results, not universal error bounds.
+
 ## Next research and development priorities
 
 1. Preserve V4.1, V4.2 and V4.3 as known-good baselines; V4.3.1 is the current release. Make further display changes only in the interface layer, with the display round-trip and release regression checks.
