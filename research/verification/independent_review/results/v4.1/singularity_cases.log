@@ -1,0 +1,23 @@
+pass                     sin sec cot                → 1  0° hole limit 1 | 90° hole limit 1 | 180° hole limit 1 | 270° hole limit 1
+pass                     sin^2 + cos^2              → 1  
+pass                     sec^2 - tan^2              → 1  90° hole limit 1 | 270° hole limit 1
+pass                     cos / sin^-1               → sin · cos  0° hole limit 0 | 180° hole limit 0
+pass                     1/tan                      → cot  0° pole order 1 | 90° hole limit 0 | 180° pole order 1 | 270° hole limit 0
+pass                     (1-cos)/sin^2              → (1 −cos) / (sin²)  0° hole limit 0.5 | 180° pole order 2
+pass                     (1-sin)^4/cos^8            → (1 −4 · sin +6 · sin² −4 · sin³ +sin⁴) / (cos⁸)  90° hole limit 0.0625 | 270° pole order 8
+pass                     tan * cos                  → sin  90° hole limit 1 | 270° hole limit -1
+pass                     sin^2 * csc^3              → csc  0° pole order 1 | 180° pole order 1
+pass                     cot * sin                  → cos  0° hole limit 1 | 180° hole limit -1
+pass                     tan^0                      → 1  90° hole limit 1 | 270° hole limit 1
+pass                     sin^0                      → 1  
+pass                     (1 - cos)^3 / sin^6        → (4 −4 · cos −3 · sin² +sin² · cos) / (sin⁶)  0° hole limit 0.125 | 180° pole order 6
+pass                     csc - cot                  → (1 −cos) / (sin)  0° hole limit 0 | 180° pole order 1
+rejected (needs V4.3+)   1/(sin^2+cos^2)            Division and negative powers require a single nonzero monomial denominator  
+rejected (needs V4.3+)   sin/(1+cos)                Division and negative powers require a single nonzero monomial denominator  
+rejected (needs V4.3+)   (sin-cos)/(sin-cos)        Division and negative powers require a single nonzero monomial denominator  
+rejected (needs V4.3+)   1/(2*sin-1)                Division and negative powers require a single nonzero monomial denominator  
+rejected (needs V4.3+)   (1+cos)/(1-cos)            Division and negative powers require a single nonzero monomial denominator  
+rejected (needs V4.3+)   1/(sin+cos)^2              Division and negative powers require a single nonzero monomial denominator  
+rejected (needs V4.3+)   (sin^2-cos^2)/(sin-cos)    Division and negative powers require a single nonzero monomial denominator  
+21 cases, 0 failures
+exit 0

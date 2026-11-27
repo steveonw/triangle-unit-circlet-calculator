@@ -1,0 +1,35 @@
+{
+ "app": "Trig_Atlas_v4_3_1_Presentation.html",
+ "fileSha256": "f4153ac068cf1da07c1ba0a2b06aecdbadd62f5eec35db8ad306bf7be75cff15",
+ "engineSha256": "d15f5bf58984ca843d35501540e2b9afd796f6de4248d46cd68129da43a3b340",
+ "seed": 20261126,
+ "angleSeed": 20261127,
+ "expressions": 40000,
+ "distinctExpressions": 40000,
+ "drawsNeeded": 45340,
+ "rng": "mulberry32",
+ "expressionListSha256": "c055d57411f712ab0daa5443b93e202e152d0c539e800e97714baf7fad1d849f",
+ "accepted": 39600,
+ "acceptedLaurent": 32175,
+ "acceptedGeneral": 7425,
+ "rejected": 400,
+ "rejectedByMessage": {
+  "General rational expression exceeds the degree / complexity limit": 246,
+  "Denominator is identically zero — no valid angle": 122,
+  "Expression too large for this prototype": 29,
+  "Expression too long": 3
+ },
+ "cardinalChecks": 158400,
+ "cardinalValueChecks": 14967,
+ "genericChecks": 153357,
+ "maskValueDisagreements": 0,
+ "maxScaledError": 2.8335864164605898e-11,
+ "maxScaledErrorCase": {
+  "e": "sec 3 + (2 / 3 / (csc) + sin sec * 2) + ((tan * 3 * sec^-1 - cos 2 / sin)^3 * 2 * tan - csc * tan^2)^3 (cot^-3 csc + cot / csc^3)^3 * csc^-3",
+  "deg": 313.9,
+  "app": -7.607759817109721,
+  "reference": -7.607759817325293
+ },
+ "failures": [],
+ "failureCount": 0
+}

@@ -1,0 +1,43 @@
+{
+ "app": "Trig_Atlas_v4_1_Reliability.html",
+ "empty_prompt": {
+  "text": "Select a vertex or enter an expression.",
+  "color": "rgb(255, 191, 121)"
+ },
+ "muted_color": "rgb(166, 183, 204)",
+ "error_state": {
+  "text": "Expected a trig function, integer or parenthesis",
+  "color": "rgb(255, 191, 121)"
+ },
+ "#viewTwo": 2,
+ "#viewSix": 6,
+ "example_crossing": "(sin · sec) · (cos · cot) = cos",
+ "stability": {
+  "answer": "(1 −4 · sin +6 · sin² −4 · sin³ +sin⁴) / (cos⁸)",
+  "note": "90°: hole; limit 0.0625 | 270°: pole (order 8)"
+ },
+ "general_answers": {
+  "1/(2*sin-1)": {
+   "answer": "—",
+   "error": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  "sin/(1+cos)": {
+   "answer": "—",
+   "error": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  "-sin/(1+cos)^2": {
+   "answer": "—",
+   "error": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  "(sin^2-cos^2+2)/(sin-cos)": {
+   "answer": "—",
+   "error": "Division and negative powers require a single nonzero monomial denominator"
+  }
+ },
+ "page_errors": [],
+ "mobile_scroll_width": 390,
+ "failures": [
+  "empty prompt is not the muted color"
+ ]
+}
+exit 1

@@ -1,0 +1,41 @@
+{
+ "app": "Trig_Atlas_v4_3_1_Presentation.html",
+ "empty_prompt": {
+  "text": "Select a vertex or enter an expression.",
+  "color": "rgb(166, 183, 204)"
+ },
+ "muted_color": "rgb(166, 183, 204)",
+ "error_state": {
+  "text": "Expected a trig function, integer or parenthesis",
+  "color": "rgb(255, 191, 121)"
+ },
+ "#viewTwo": 2,
+ "#viewSix": 6,
+ "example_crossing": "(sin · sec) · (cos · cot) = cos",
+ "stability": {
+  "answer": "1 / (1 + sin)⁴",
+  "note": "90°: hole; limit 0.0625 | 270°: pole (order 8)"
+ },
+ "general_answers": {
+  "1/(2*sin-1)": {
+   "answer": "1 / (2 · sin − 1)",
+   "error": ""
+  },
+  "sin/(1+cos)": {
+   "answer": "sin / (1 + cos)",
+   "error": ""
+  },
+  "-sin/(1+cos)^2": {
+   "answer": "−sin / (1 + cos)²",
+   "error": ""
+  },
+  "(sin^2-cos^2+2)/(sin-cos)": {
+   "answer": "(sin² − cos² + 2) / (sin − cos)",
+   "error": ""
+  }
+ },
+ "page_errors": [],
+ "mobile_scroll_width": 390,
+ "failures": []
+}
+exit 0

@@ -1,0 +1,68 @@
+{
+ "app": "Trig_Atlas_v4_3_1_Presentation.html",
+ "fileSha256": "f4153ac068cf1da07c1ba0a2b06aecdbadd62f5eec35db8ad306bf7be75cff15",
+ "engineSha256": "d15f5bf58984ca843d35501540e2b9afd796f6de4248d46cd68129da43a3b340",
+ "seed": 20261128,
+ "rng": "mulberry32",
+ "randomExpressions": 3000,
+ "drawsNeeded": 3226,
+ "handPicked": 10,
+ "expressionListSha256": "9f02af564b28cd3b20a4207dcefb7252839e161327f5b93140a9a8e3dedf4528",
+ "generalAccepted": 856,
+ "typesetRaw": 850,
+ "typesetOther": 6,
+ "roundTripChecks": 6800,
+ "failures": [],
+ "examples": [
+  [
+   "1/(2*sin-1)",
+   "1 / (2 · sin − 1)"
+  ],
+  [
+   "sin/(1+cos)",
+   "sin / (1 + cos)"
+  ],
+  [
+   "-sin/(1+cos)^2",
+   "−sin / (1 + cos)²"
+  ],
+  [
+   "(sin^2-cos^2+2)/(sin-cos)",
+   "(sin² − cos² + 2) / (sin − cos)"
+  ],
+  [
+   "2 sin cos/(1-tan^2)",
+   "2 · sin · cos / (1 − tan²)"
+  ],
+  [
+   "(sin+cos)(sin-cos)/(1+sin)",
+   "(sin + cos) · (sin − cos) / (1 + sin)"
+  ],
+  [
+   "-(1-cos)^3/(2+sin)^-2",
+   "−(1 − cos)³ / (2 + sin)⁻²"
+  ],
+  [
+   "sin²/(1−cos+2)",
+   "sin² / (1 − cos + 2)"
+  ],
+  [
+   "sec^3 (csc^-2 * cos (cot * tan^3)^2 + 1)^-2 / sin-(-(2 * cot1)-(sin * 2))^-2 / sin^-2 / 2",
+   "sec³ · (csc⁻² · cos · (cot · tan³)² + 1)⁻² / sin − (−(2 · cot · 1) − (sin · 2))⁻² / sin⁻² / 2"
+  ],
+  [
+   "((tan cot-sec * cot)^-2 + (csc^2 - sin / cos)^-2 / 1 * tan^0) 3 cos^3 + sin - 3 tan",
+   "((tan · cot − sec · cot)⁻² + (csc² − sin / cos)⁻² / 1 · tan⁰) · 3 · cos³ + sin − 3 · tan"
+  ],
+  [
+   "cos^3 + sin^3 * (-(cos / 3+cot3 * sec)^0 (cos / 2)^2-sin / (csc / cot * sec)3)^-2 + (sin^03 * cos)^-1 / (sin^3 / (sin / 3-sin^3 * sec csc^-1)(csc^-1)^0+3)^-2 / 1",
+   "cos³ + sin³ · (−(cos / 3 + cot · 3 · sec)⁰ · (cos / 2)² − sin / (csc / cot · sec) · 3)⁻² + (sin³ · cos)⁻¹ / (sin³ / (sin / 3 − sin³ · sec · csc⁻¹) · (csc⁻¹)⁰ + 3)⁻² / 1"
+  ],
+  [
+   "2 (tan 3 - (cot)^-1 / 2) tan-((csc * 3))^0((cot) / (cot^-2tan * sec - 3)^2 / sec^2+sin / cos)^0",
+   "2 · (tan · 3 − (cot)⁻¹ / 2) · tan − ((csc · 3))⁰ · ((cot) / (cot⁻² · tan · sec − 3)² / sec² + sin / cos)⁰"
+  ]
+ ],
+ "failureCount": 0
+}
+exit 0

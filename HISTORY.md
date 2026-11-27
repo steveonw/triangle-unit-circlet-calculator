@@ -79,7 +79,7 @@ The archived release package recorded these verification results (not new measur
 - 48 independent SymPy pole/limit checks passed.
 - Chromium desktop interaction checks passed with no page errors; the 390 px mobile viewport showed no horizontal overflow.
 
-A separate AI review reported fuzzing 40,000 expressions without domain or value errors within the supported grammar, and agreement with 50-digit arithmetic near a singularity. It also identified the most important remaining limitations: verbose expanded output, a restriction to monomial denominators, and small visual/wording issues. These are reviewer-reported observations, not independently rerun results for this commit.
+A separate AI review reported fuzzing 40,000 expressions without domain or value errors within the supported grammar, and agreement with 50-digit arithmetic near a singularity. It also identified the most important remaining limitations: verbose expanded output, a restriction to monomial denominators, and small visual/wording issues. **Correction (V4.3.1 review):** the same reviewer later found that its random generator had cycled, so the reported "40,000" run contained only 287 distinct expressions. That conversational run is superseded by the archived [independent review](research/verification/independent_review/README.md), which tested 40,000 distinct expressions on V4.1 with 0 failures (see below).
 
 ## V4.2 — readable factored identities
 
@@ -103,16 +103,35 @@ Examples: 1/(sin²+cos²) = 1 everywhere; sin/(1+cos) is defined at 0° and has 
 
 The seeded [verification suite](research/verification/v4.3/README.md) accepted 354 of 374 inputs (336 general, 18 legacy); rejected 20 identically zero divisors; passed 6,392 exact-value comparisons, 9,408 domain checks, 8,715 100-digit numerical comparisons, 280 exact chart/domain identities, 445 isolated-root/classification checks and 249 finite-limit checks. Maximum sampled scaled numerical error 2.87e-14. All V4.1/V4.2 regression suites and new Chromium desktop/mobile interaction tests also passed. This is sampled implementation verification, not a universal numerical error guarantee or educational study.
 
+## V4.3.1 — presentation patch
+
+Source: [V4.3.1](Trig_Atlas_v4_3_1_Presentation.html). V4.1, V4.2 and V4.3 remain unchanged.
+
+When the general rational path found no shorter recognized form, V4.3 echoed the raw input as the answer (for example `1/(2*sin-1)`). V4.3.1 typesets it as `1 / (2 · sin − 1)`, with spaced operators, `·` for explicit and implicit multiplication, `−` for minus, and superscript exponents. The formatter lives in the interface layer and never changes the engine's result, domain or values. The inline `TA` engine is byte-for-byte identical to V4.3, confirmed by SHA-256 of the extracted block. The second requested fix, a neutral empty-input prompt, turned out to be already present since V4.2. The review had reported it in error, based on V4.1.
+
+[Verification](research/verification/v4.3.1/README.md): all five preserved release suites (V4.1 math and browser, V4.2 display, V4.3 rational and browser) were rerun unmodified against V4.3.1. All passed, and their output matched the recorded V4.3 results line for line. A new display round-trip test fed 850 typeset answers back into the engine and found identical exclusions and bit-identical values (6,800 comparisons, 0 failures).
+
+## Independent review (archived with V4.3.1)
+
+An AI reviewer (Claude, Anthropic) wrote a test suite separate from the release tests, with its own reference evaluator, and archived the scripts and actual outputs in [research/verification/independent_review](research/verification/independent_review/README.md). Results reproduced in that run:
+
+- Laurent-grammar fuzz test, 40,000 distinct expressions: V4.1 accepted 32,175 and V4.3/V4.3.1 accepted 39,600 (7,425 through the general path). There were 0 domain or value failures. All rejections are listed with their messages.
+- General rational fuzz test, 3,000 distinct expressions (990 through the general path): 0 failures. All 1,811 reported off-axis exclusions were confirmed. A completeness scan, with a self-test that it catches deliberately hidden exclusions, found no missed exclusions; its 111 flags were all divisors vanishing at axis angles the app already excludes.
+- 21 hand-derived hole/pole cases and 8 near-pole values against 50-digit mpmath (worst relative error 4.8×10⁻¹⁶).
+- One accuracy observation, not a failure: on the Laurent path, the largest disagreement found was a relative error of 2.8×10⁻¹¹ by the app at 313.9°, confirmed with 60-digit arithmetic. This is consistent with the V4.1 evaluator switching to exact evaluation only when cancellation exceeds 10¹⁰.
+
+The same reviewer's earlier conversational fuzz figures for V4.1 ("40,000") and V4.3 ("3,000") came from a generator that repeated after 10,466 draws (287 and 267 distinct expressions). They are superseded by the archived runs.
+
 ## Next research and development priorities
 
-1. Preserve V4.1 as a known-good baseline. Improve output readability and small visual issues in a separate revision, with regression checks.
-2. Extend testing of V4.3's general rational engine, especially clustered roots, large coefficients, conditioning and readable general-rational display.
+1. Preserve V4.1, V4.2 and V4.3 as known-good baselines; V4.3.1 is the current release. Make further display changes only in the interface layer, with the display round-trip and release regression checks.
+2. Extend testing of V4.3's general rational engine, especially clustered roots, large coefficients, conditioning and readable factored general-rational display. Consider tightening the Laurent evaluator's 10¹⁰ cancellation threshold, since the independent review observed a 2.8×10⁻¹¹ relative error below it.
 3. Keep exact equivalence, human-readable form, numerical evaluation and original domain as distinct representations.
 4. Expand randomized differential and browser testing; document unsupported syntax and numerical limits.
 5. Compare against existing tools in a controlled educational study, including retention and error rates.
 6. Revisit calibrated geometric sensing and linked modules only with explicit operations, assumptions and measurable hypotheses.
 
-V4.2 readability and bounded V4.3 general denominator support are implemented. Broader rational factorization, numerical optimization, educational validation and later research features remain proposals.
+V4.2 readability, bounded V4.3 general denominator support and V4.3.1 answer typesetting are implemented. Broader rational factorization, numerical optimization, educational validation and later research features remain proposals.
 
 ## Provenance
 

@@ -1,0 +1,6 @@
+Seed 20261126; generated 1232 expressions; accepted 1224; bounded rejections 8
+Exact rational comparisons: 4896; domain/cardinal comparisons: 6120; 180-digit mpmath comparisons: 24480
+Maximum scaled numeric error: (2.2384751778243247e-13, ('((((cot-tan)*(tan-(-6))))^3+(((csc/cos))^2-((sec*cos)*(sec*csc))))', 223.7, 2.258270771112157, '2.25827077111165129'))
+Failures: 0 []
+SymPy independent pole/limit checks: 48 passed
+exit 0

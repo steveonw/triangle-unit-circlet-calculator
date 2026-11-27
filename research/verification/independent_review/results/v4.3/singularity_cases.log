@@ -1,0 +1,23 @@
+pass                     sin sec cot                → 1  0° hole limit 1 | 90° hole limit 1 | 180° hole limit 1 | 270° hole limit 1
+pass                     sin^2 + cos^2              → 1  
+pass                     sec^2 - tan^2              → 1  90° hole limit 1 | 270° hole limit 1
+pass                     cos / sin^-1               → sin · cos  0° hole limit 0 | 180° hole limit 0
+pass                     1/tan                      → cot  0° pole order 1 | 90° hole limit 0 | 180° pole order 1 | 270° hole limit 0
+pass                     (1-cos)/sin^2              → 1 / (1 + cos)  0° hole limit 0.5 | 180° pole order 2
+pass                     (1-sin)^4/cos^8            → 1 / (1 + sin)⁴  90° hole limit 0.0625 | 270° pole order 8
+pass                     tan * cos                  → sin  90° hole limit 1 | 270° hole limit -1
+pass                     sin^2 * csc^3              → csc  0° pole order 1 | 180° pole order 1
+pass                     cot * sin                  → cos  0° hole limit 1 | 180° hole limit -1
+pass                     tan^0                      → 1  90° hole limit 1 | 270° hole limit 1
+pass                     sin^0                      → 1  
+pass                     (1 - cos)^3 / sin^6        → 1 / (1 + cos)³  0° hole limit 0.125 | 180° pole order 6
+pass                     csc - cot                  → (1 − cos) / sin  0° hole limit 0 | 180° pole order 1
+pass                     1/(sin^2+cos^2)            → 1  
+pass                     sin/(1+cos)                → sin/(1+cos)  180° pole order 1
+pass                     (sin-cos)/(sin-cos)        → 1  45° hole limit 1 | 225° hole limit 1
+pass                     1/(2*sin-1)                → 1/(2*sin-1)  30° pole order 1 | 150° pole order 1
+pass                     (1+cos)/(1-cos)            → (1+cos)/(1-cos)  0° pole order 2
+pass                     1/(sin+cos)^2              → 1/(sin+cos)^2  135° pole order 2 | 315° pole order 2
+pass                     (sin^2-cos^2)/(sin-cos)    → sin + cos  45° hole limit 1.4142135623730951 | 225° hole limit -1.4142135623730954
+21 cases, 0 failures
+exit 0

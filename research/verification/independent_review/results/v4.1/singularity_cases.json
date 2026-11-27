@@ -1,0 +1,182 @@
+{
+ "app": "Trig_Atlas_v4_1_Reliability.html",
+ "fileSha256": "48076548518e2be6237f73b2fd925c2889a335e019395a511c5783f9fd09661b",
+ "engineSha256": "0d9bf8da858376c6cbd18aa031b352fe0646d47057a6cc45e91cfb207c5d8474",
+ "cases": 21,
+ "failures": [],
+ "rows": [
+  {
+   "e": "sin sec cot",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": [
+    "0° hole limit 1",
+    "90° hole limit 1",
+    "180° hole limit 1",
+    "270° hole limit 1"
+   ]
+  },
+  {
+   "e": "sin^2 + cos^2",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": []
+  },
+  {
+   "e": "sec^2 - tan^2",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": [
+    "90° hole limit 1",
+    "270° hole limit 1"
+   ]
+  },
+  {
+   "e": "cos / sin^-1",
+   "status": "pass",
+   "path": "laurent",
+   "display": "sin · cos",
+   "exclusions": [
+    "0° hole limit 0",
+    "180° hole limit 0"
+   ]
+  },
+  {
+   "e": "1/tan",
+   "status": "pass",
+   "path": "laurent",
+   "display": "cot",
+   "exclusions": [
+    "0° pole order 1",
+    "90° hole limit 0",
+    "180° pole order 1",
+    "270° hole limit 0"
+   ]
+  },
+  {
+   "e": "(1-cos)/sin^2",
+   "status": "pass",
+   "path": "laurent",
+   "display": "(1 −cos) / (sin²)",
+   "exclusions": [
+    "0° hole limit 0.5",
+    "180° pole order 2"
+   ]
+  },
+  {
+   "e": "(1-sin)^4/cos^8",
+   "status": "pass",
+   "path": "laurent",
+   "display": "(1 −4 · sin +6 · sin² −4 · sin³ +sin⁴) / (cos⁸)",
+   "exclusions": [
+    "90° hole limit 0.0625",
+    "270° pole order 8"
+   ]
+  },
+  {
+   "e": "tan * cos",
+   "status": "pass",
+   "path": "laurent",
+   "display": "sin",
+   "exclusions": [
+    "90° hole limit 1",
+    "270° hole limit -1"
+   ]
+  },
+  {
+   "e": "sin^2 * csc^3",
+   "status": "pass",
+   "path": "laurent",
+   "display": "csc",
+   "exclusions": [
+    "0° pole order 1",
+    "180° pole order 1"
+   ]
+  },
+  {
+   "e": "cot * sin",
+   "status": "pass",
+   "path": "laurent",
+   "display": "cos",
+   "exclusions": [
+    "0° hole limit 1",
+    "180° hole limit -1"
+   ]
+  },
+  {
+   "e": "tan^0",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": [
+    "90° hole limit 1",
+    "270° hole limit 1"
+   ]
+  },
+  {
+   "e": "sin^0",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": []
+  },
+  {
+   "e": "(1 - cos)^3 / sin^6",
+   "status": "pass",
+   "path": "laurent",
+   "display": "(4 −4 · cos −3 · sin² +sin² · cos) / (sin⁶)",
+   "exclusions": [
+    "0° hole limit 0.125",
+    "180° pole order 6"
+   ]
+  },
+  {
+   "e": "csc - cot",
+   "status": "pass",
+   "path": "laurent",
+   "display": "(1 −cos) / (sin)",
+   "exclusions": [
+    "0° hole limit 0",
+    "180° pole order 1"
+   ]
+  },
+  {
+   "e": "1/(sin^2+cos^2)",
+   "status": "rejected (needs V4.3+)",
+   "message": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  {
+   "e": "sin/(1+cos)",
+   "status": "rejected (needs V4.3+)",
+   "message": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  {
+   "e": "(sin-cos)/(sin-cos)",
+   "status": "rejected (needs V4.3+)",
+   "message": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  {
+   "e": "1/(2*sin-1)",
+   "status": "rejected (needs V4.3+)",
+   "message": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  {
+   "e": "(1+cos)/(1-cos)",
+   "status": "rejected (needs V4.3+)",
+   "message": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  {
+   "e": "1/(sin+cos)^2",
+   "status": "rejected (needs V4.3+)",
+   "message": "Division and negative powers require a single nonzero monomial denominator"
+  },
+  {
+   "e": "(sin^2-cos^2)/(sin-cos)",
+   "status": "rejected (needs V4.3+)",
+   "message": "Division and negative powers require a single nonzero monomial denominator"
+  }
+ ]
+}
