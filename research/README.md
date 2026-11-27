@@ -111,6 +111,10 @@ python -m pip install mpmath playwright
 bash research/verification/independent_review/run_all.sh Trig_Atlas_v4_3_1_Presentation.html results/v4.3.1 --rational --display
 ```
 
+## V4.4 optimization experiment (research only)
+
+The [numerical strategy and root-conditioning report](verification/v4.4-optimizer/README.md) records a new comparison of conventional, canonical, readable, adaptive and exact numerical evaluation, plus a targeted root-centered prototype. The tested engine is V4.3, verified identical to V4.3.1. Of 2,025 distinct expressions, 2,013 were accepted; 15,211 high-precision evaluation points and 8,052 independent cardinal-domain checks were evaluated. The 1e-6 Laurent fallback cutoff is a promising candidate, not a deployed change. Root-centered formulas were tested at six exact rational-degree roots; general root-centered evaluation remains research. The full reproduction scripts, workload, baseline HTML and JSON results are distributed separately in the V4.4 Optimization Experiment ZIP. The repository report records the original run and reproduction instructions.
+
 ## Review findings and next questions
 
 AI reviews reported independently reproducing core geometry, algebra and projection results. A V4 review identified catastrophic cancellation near a removable singularity in (1−sin θ)^4/cos^8 θ; V4.1 added local tangent-half-angle rational charts, exact cancellation and stable evaluation to address that issue. A subsequent AI review reported a 40,000-expression fuzz test without domain/value failures within the supported grammar, agreement with 50-digit arithmetic near singular angles, and successful browser tests. That conversational figure was later corrected by the same reviewer: its generator had cycled, so the run held only 287 distinct expressions. The reviewer then archived a corrected harness and its actual results in the [independent review suite](verification/independent_review/README.md). Those archived results, not the conversational figure, are the reproducible record. They were run by the reviewer, not the repository maintainer.
