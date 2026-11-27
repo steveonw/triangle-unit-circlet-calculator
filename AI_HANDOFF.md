@@ -75,6 +75,12 @@ Known accuracy observation (not a failure): on the Laurent path, the app's large
 
 The independent suite passed 6,392 exact value comparisons, 9,408 domain checks, 8,715 100-digit comparisons, 280 exact chart/domain identities, 445 root classifications, 249 finite-limit checks and the earlier V4.1/V4.2 tests. See [V4.3 source, tests and results](research/verification/v4.3/README.md). No universal accuracy, complete factorization or arbitrary-angle CAS claim.
 
+## V4.4 numerical optimization experiment (research only)
+
+Read the [optimization experiment report](research/verification/v4.4-optimizer/README.md). The latest deployed application remains V4.3.1; the experiment loaded the hash-verified V4.3 file with an identical TA block, and instrumented a copy in memory. A 1e-6 Laurent Horner fallback threshold (instead of 1e-10) is the recommended candidate from this workload: 2,013 accepted expressions, 15,211 180-digit reference points, random Laurent max scaled error 3.75e-10 -> 3.52e-14, reviewer-case error 2.83e-11 -> 1.75e-16, median timing 767 -> 783 ns/evaluation with overlapping repetition ranges. No domain change was observed in 8,052 independent exact cardinal checks or 45,370 variant/baseline boundary comparisons. Do not call these universal error bounds.
+
+Near off-axis poles, exact Horner on a binary64 half-angle coordinate can still be inaccurate. High-precision chart evaluation at the exact angle versus the rounded coordinate isolated that issue. For a few certified exact roots, root-centered identities such as sin(theta)-sin(alpha)=2*cos((theta+alpha)/2)*sin((theta-alpha)/2) proved useful in a 48-point experiment. Do not silently snap a typed angle to a displayed approximate root. General root-centered factorization and high-precision angle evaluation remain unimplemented. The full reproduction ZIP is separate from GitHub; the report is archived here. Next patch: trial the 1e-6 cutoff, rerun original and independent suites, preserve prior releases, then separately investigate more general conditioning-aware strategies.
+
 ## Next scoped work (not yet implemented)
 
 0. **Laurent evaluator threshold:** consider lowering the 10¹⁰ cancellation threshold that triggers exact evaluation, or always using exact evaluation, then measure accuracy with the independent review suite and the V4.1 high-precision suite. Preserve results and domains.
