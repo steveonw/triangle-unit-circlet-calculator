@@ -4,7 +4,7 @@ An interactive three-dimensional approach to trigonometric identities, symbolic 
 
 ## Run the calculator
 
-Download [Trig Atlas V4.1 — Reliability](Trig_Atlas_v4_1_Reliability.html) and open it in a modern browser. The standalone HTML contains all code and styling; it does not need a build step, server, or internet connection.
+Download [Trig Atlas V4.2 — Readability](Trig_Atlas_v4_2_Readability.html) and open it in a modern browser. The standalone HTML contains all code and styling; it does not need a build step, server, or internet connection.
 
 - **Eye Calculator:** construct expressions by selecting vertices, edges, faces and projected crossings; inspect simplification, domain exclusions, holes, poles and graphs.
 - **Identity Atlas:** explore reciprocal axes, product identities, Pythagorean relations and the eight triangular faces.
@@ -18,12 +18,13 @@ Download [Trig Atlas V4.1 — Reliability](Trig_Atlas_v4_1_Reliability.html) and
 | [Development history](HISTORY.md) | Origin, design evolution, experiments, reviewer feedback and roadmap |
 | [AI handover](AI_HANDOFF.md) | Technical architecture, mathematical invariants, regression cases and directions for future contributors |
 | [Research paper](research/Trig_Atlas_Research_Paper.md) | Exploratory theory, computational experiments, limitations and references |
-| [Research & reproduction guide](research/README.md) | Original Python scripts, recorded outputs, V4.1 regression suite and exact reproduction commands |
+| [Research & reproduction guide](research/README.md) | Original Python scripts, recorded outputs, V4.1/V4.2 verification and reproduction commands |
 | [V1 — original octahedron](archive/v1/trig_octahedron.html) | Static trigonometric identity model |
 | [V2 — three circles](archive/v2/trig_octahedron_three_circles.html) | Synchronized circles and geometric relationships |
 | [V3 — calculus](archive/v3/trig_octahedron_calculus.html) | Derivatives, integrals and projection |
 | [V4 — Eye Calculator](archive/v4/Trig_Atlas_v4_Eye_Calculator.html) | Integrated expression builder and guided exploration |
-| [V4.1 — Reliability](Trig_Atlas_v4_1_Reliability.html) | Current stable research baseline |
+| [V4.1 — Reliability](Trig_Atlas_v4_1_Reliability.html) | Preserved reliability baseline |
+| [V4.2 — Readability](Trig_Atlas_v4_2_Readability.html) | Latest version: verified factored display with unchanged evaluator |
 
 The archived HTML files retain their original contents. Their Git upload dates are archival dates rather than a reconstruction of the original development chronology.
 
