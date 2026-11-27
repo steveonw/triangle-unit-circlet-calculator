@@ -70,6 +70,10 @@ The browser test optionally accepts CHROMIUM_PATH pointing to a local Chromium e
 
 The original math test reported 1,224 accepted expressions out of 1,232 generated; 4,896 exact rational comparisons, 6,120 cardinal/domain comparisons, 24,480 high-precision comparisons, zero failures, and 48 independent SymPy singularity checks. The maximum scaled numeric error was about 2.24e-13. These are finite-sample regression results, not a guarantee of universal accuracy.
 
+## V4.2 readability verification
+
+The [V4.2 verification report](verification/v4.2/README.md) records the new independent display suite and rerun of the original V4.1 suite against [V4.2](../Trig_Atlas_v4_2_Readability.html). Factored output is presentation-only and does not expand the supported input grammar.
+
 ## Review findings and next questions
 
 AI reviews reported independently reproducing core geometry, algebra and projection results. A V4 review identified catastrophic cancellation near a removable singularity in (1−sin θ)^4/cos^8 θ; V4.1 added local tangent-half-angle rational charts, exact cancellation and stable evaluation to address that issue. A subsequent AI review reported a 40,000-expression fuzz test without domain/value failures within the supported grammar, agreement with 50-digit arithmetic near singular angles, and successful browser tests. That report is not an independently archived test harness or a new run by the repository maintainer.
