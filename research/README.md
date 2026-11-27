@@ -8,6 +8,8 @@ This folder preserves the mathematical investigation and the associated research
 - [Development history](../HISTORY.md) — chronology of the idea, prototypes and reviews.
 - [AI handover](../AI_HANDOFF.md) — mathematical invariants, source architecture, limitations and next development steps.
 - [V4.1 baseline](../Trig_Atlas_v4_1_Reliability.html) — original verified HTML; Git blob SHA db7a7ac9518f772d7147aea4c95eb3084b1cfcf8.
+- [V4.3.1 latest release](../Trig_Atlas_v4_3_1_Presentation.html) — V4.3 engine with typeset general-expression answers; [verification](verification/v4.3.1/README.md).
+- [Independent review tests](verification/independent_review/README.md) — separately written test suite with archived results for V4.1, V4.3 and V4.3.1.
 
 ## Original Python experiments
 
@@ -88,11 +90,32 @@ python research/verification/v4.2/test_v42_display.py Trig_Atlas_v4_2_Readabilit
 
 Dependencies are the same Python/Node.js/mpmath/SymPy/Playwright/Chromium tools documented above. The new suite recorded 445 root classifications and 8,715 high-precision comparisons with no failures, in addition to exact rational and domain checks. The tested app is the [V4.3 file](../Trig_Atlas_v4_3_Rational.html).
 
+## V4.3.1 presentation verification
+
+The [V4.3.1 report](verification/v4.3.1/README.md) records the display-only change and the unmodified reruns of all five preserved release suites against [V4.3.1](../Trig_Atlas_v4_3_1_Presentation.html). All passed, with output matching the recorded V4.3 results line for line. The `TA` engine block is byte-for-byte identical to V4.3.
+
+```sh
+python research/verification/v4.3/test_v43_rational.py Trig_Atlas_v4_3_1_Presentation.html
+python research/verification/v4.3/test_v43_browser.py Trig_Atlas_v4_3_1_Presentation.html
+python research/verification/v4.1/test_v41_math.py Trig_Atlas_v4_3_1_Presentation.html
+python research/verification/v4.1/test_v41_browser.py Trig_Atlas_v4_3_1_Presentation.html
+python research/verification/v4.2/test_v42_display.py Trig_Atlas_v4_2_Readability.html Trig_Atlas_v4_3_1_Presentation.html
+```
+
+## Independent review suite
+
+[verification/independent_review/](verification/independent_review/README.md) contains tests written by an AI reviewer separately from the release suites, with their own reference evaluator, plus the actual outputs from running them on V4.1, V4.3 and V4.3.1. Highlights: a 40,000-distinct-expression fuzz test (0 failures on all three versions); a 3,000-expression general-rational fuzz test with confirmation of every reported off-axis exclusion and a self-tested completeness scan (0 failures); 21 hand-derived hole/pole cases; 50-digit near-pole checks; a V4.3.1 display round-trip test; and a browser smoke test. Seeds, dependencies, file hashes, every rejected expression, and the limits of each check are documented there. Rerun with:
+
+```sh
+python -m pip install mpmath playwright
+bash research/verification/independent_review/run_all.sh Trig_Atlas_v4_3_1_Presentation.html results/v4.3.1 --rational --display
+```
+
 ## Review findings and next questions
 
-AI reviews reported independently reproducing core geometry, algebra and projection results. A V4 review identified catastrophic cancellation near a removable singularity in (1−sin θ)^4/cos^8 θ; V4.1 added local tangent-half-angle rational charts, exact cancellation and stable evaluation to address that issue. A subsequent AI review reported a 40,000-expression fuzz test without domain/value failures within the supported grammar, agreement with 50-digit arithmetic near singular angles, and successful browser tests. That report is not an independently archived test harness or a new run by the repository maintainer.
+AI reviews reported independently reproducing core geometry, algebra and projection results. A V4 review identified catastrophic cancellation near a removable singularity in (1−sin θ)^4/cos^8 θ; V4.1 added local tangent-half-angle rational charts, exact cancellation and stable evaluation to address that issue. A subsequent AI review reported a 40,000-expression fuzz test without domain/value failures within the supported grammar, agreement with 50-digit arithmetic near singular angles, and successful browser tests. That conversational figure was later corrected by the same reviewer: its generator had cycled, so the run held only 287 distinct expressions. The reviewer then archived a corrected harness and its actual results in the [independent review suite](verification/independent_review/README.md). Those archived results, not the conversational figure, are the reproducible record. They were run by the reviewer, not the repository maintainer.
 
-Remaining priorities: more readable general-rational factored display, stress tests for clustered roots and numerical conditioning, comparison of equivalent formula costs and stability, and a controlled learning study. The current grammar is deliberately restricted. Keep the original-domain model distinct from symbolic equivalence and numerical evaluation. More speculative optical-angle sensing and network applications need comparative experiments before claims of practical benefit.
+Remaining priorities: more readable factored display for general rational expressions (V4.3.1 typesets them but does not factor them), the Laurent evaluator's cancellation threshold (the independent review observed a 2.8×10⁻¹¹ relative error), stress tests for clustered roots and numerical conditioning, comparison of equivalent formula costs and stability, and a controlled learning study. The current grammar is deliberately restricted. Keep the original-domain model distinct from symbolic equivalence and numerical evaluation. More speculative optical-angle sensing and network applications need comparative experiments before claims of practical benefit.
 
 ## Archival scope
 

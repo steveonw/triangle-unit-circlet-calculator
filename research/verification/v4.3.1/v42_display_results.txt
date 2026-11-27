@@ -1,0 +1,6 @@
+Generated 650 unique cases; accepted 610; unchanged bounded rejections 40
+New factored displays: 544; exact SymPy rational identities: 544
+Exact display value comparisons: 5090; allowed cardinal comparisons: 820
+V4.1/V4.2 canonical signature, domain masks, numerical values and singularities identical on all accepted cases.
+All display checks PASS
+exit 0

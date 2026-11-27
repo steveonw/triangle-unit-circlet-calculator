@@ -1,0 +1,400 @@
+General rational expression exceeds the degree / complexity limit	sec * 2 cot^-3 + 1 * sec - (sin)^2 / csc^3 / ((3 / tan + tan^-1 * cot)^-1 + csc^-3 * (sec^-3 * cot^-3 sin + csc cot^2)^3)
+General rational expression exceeds the degree / complexity limit	3 * sin * cos^0 + ((tan^-1 cos^2 / 1 - tan^3 / sec^-1) (csc - csc * 3 / csc)^3 - (sin csc - tan / 3 * 2) / (1 / sec - 1))^3 - sec^0 / (cos / tan^-1 * tan + tan / cot^3 / cot^-3)^2
+Denominator is identically zero — no valid angle	((tan)^2 (sin^-1 cot)) / csc^0 - (cot * csc^0 (tan^-2 * tan - cot)^-1 + cot^2) * (tan^-3 cot^-2 - sec^3)^3 / csc - (sec)
+General rational expression exceeds the degree / complexity limit	((csc) cos) / ((sin sin * cos - sin / cos^0) + cot (cos)^0 / cot^-3)^3 csc - (sin / (sec^-1 tan)^2 / sin + (sin - 1 / tan^2 / sec) * cot^-2) 3 - tan
+Denominator is identically zero — no valid angle	(cot + 2) / (cos^2 * (sin - sin) * (sin^2 * sin + cos * cos^0)) + csc / cos + csc * sec^3 / cot^-2
+Expression too large for this prototype	(cos) * sin^2 / 2 - (1 + (csc^-3 / cos^2 + sin^-3)^3 tan^0 3) (sec^-3 / sin^0 - (tan / cot * cot - sin cos) * (3 + sin))^3 (sec^-1 / sec - (csc * sin^-2) (tan / 2 sin - cos)^3 cos^3)
+General rational expression exceeds the degree / complexity limit	csc^2 - cot / ((csc / sin^-1 / cot + csc 2)^2 cot 3 - (sin / sec^-1) / 3) * sin - 2 / (cot^-2 * (sin * tan) * 3 + (1 / tan^2) / cos * cos^3)^3
+General rational expression exceeds the degree / complexity limit	cot / ((sec^0 cot cot + tan^-3 / sin) / csc cos + (cos^-2 * cot^-3) tan 3)^3 + tan * 1 - sin^0 / cos
+Denominator is identically zero — no valid angle	tan^-3 / ((cot^-3 tan) / (1 * cos - sec^-1 * cos^0) / sec - cot tan^3 / csc)^2 / tan - sec^3 * sin^-1 - ((2 * tan / cos) + (cos / sin cos) * 1) (cos)
+General rational expression exceeds the degree / complexity limit	((3 - sin * tan cot)) (sin^3 + tan^-1 csc^-1 / (cos / csc^2)) + ((cot^-2 sec^-2 / cot^2) * tan / (tan^-2 - 3 * sin * cot) + tan / csc)^3 (cot * sin * 3 - cos^2 / (cot / csc / sec) * sin^-1)^-1 / sin - (tan^-1 - (cot)) * cos
+General rational expression exceeds the degree / complexity limit	tan cot + sec^-3 * ((cot^3 + sin^-3 * sin * cot)^2 / csc^0 (3 * csc - csc / tan / 1) - cos^3) + sec^-2 / 1 / (sin^3 / sin^-1 csc - 2 * tan^-1 / sec)^3
+Expression too large for this prototype	(tan * 1 - (1 * 1 * tan^-1 - csc^2 / cos * cot^2)^3 * (sin / sec^-3 / sin^-3 + cos tan^-3 sin) / tan)^3 ((sec csc)^2 - sec^2 sin / csc^3)^2 / csc^2
+Denominator is identically zero — no valid angle	((cos - cos))^-1 * 2 cot
+General rational expression exceeds the degree / complexity limit	cos / tan^0 + cos (cos^-2 - (cot^-1)^3) * 3 + ((cos) cos^-3 * sin + (csc * cos^-3) * sin)^-1 * ((sin^3 sin * sec + cot) * sec^-3 - 3)^3
+General rational expression exceeds the degree / complexity limit	(tan^0) * (cos^-3 / (1 tan^-2 + sec^-3 / 1 / csc) - csc^0 / 3)^3 + 2 + sec^-2 * cot cot^-2
+Denominator is identically zero — no valid angle	(sec csc - cot^-2 / (tan - tan^0 * tan) / (cos * tan^3 sin^-1)) / cos^-1 - (3 2 * (sec + sin * 1 csc) + (tan)^0 (tan / cot)^-1)^2
+Denominator is identically zero — no valid angle	1 * tan^-2 + cot^-3 tan^-1 / (sec) + (sin - sin)^-1 * ((tan * csc) / csc)
+General rational expression exceeds the degree / complexity limit	3 * (tan^-3 * sin^-1 * (1 * sec / sec + sec cot) + (cot cot)^2 / (tan - sin^-2))^2 - 1 * cos^-2 * (cos * (cos^-2 / sec + sin^-1 * cot^-3 * sec)^-1 / (sec)^2 + (cot) csc^2) + sec^3 tan^3
+Expression too large for this prototype	cot^3 * 3 csc^0 - 1 (cot) + (sin^-2 * tan^0 * (cos + cot^3 2)^3)^3 * sin^0
+Denominator is identically zero — no valid angle	(cos^0 * sin^0 - tan^0)^-1 * (1 * (3 / cot^-3 - 3)) / (cot 1 + (cos / csc cos + csc^0) * sin) - sec / 1 * cot + ((sin^-2 cos^-3 / cot) sec - sec^-1) * (tan^-1) * csc^0
+Denominator is identically zero — no valid angle	csc^3 - cot^-1 / (tan (cos * tan - sin)) + sec^-1
+General rational expression exceeds the degree / complexity limit	csc * 2 (cos^-2 + cot^-3 / (csc^0 / sin^-1 / cot + 3 / 1 sec^-3)^3)^2
+General rational expression exceeds the degree / complexity limit	(cos * csc^-2 sin - csc * (2 / sin^2 cos^3 + sin^0 csc^-2 3)) / tan + cos * cos cot^-2 + ((csc^2 / cot^-2 - sec csc * cot)) * ((cos) / (1 sec tan + sec^-2 / tan^-1)^2 * (cot^-1 sin + cot 1))^3 * 3
+Denominator is identically zero — no valid angle	(2 - sec * 1 / (sin cot - sin cos / csc^-1))^0 ((tan) / (3 * csc - sin / 3) (3)^-1 - 1 * (csc / csc) * 1)^-1 * cot + (cot^-3 / (sin cos^3 tan) - sec / cos * (1 * cos^2 cos + 3))^0 / sec^0 - ((cos^-1) * cos^-3) * sin^-3
+General rational expression exceeds the degree / complexity limit	sin^2 ((sin sec * tan^-1 + sin sin^3)^2 + (sin^0) tan)^3 - csc csc^2 - (sin^-1 / tan^-3 / csc)^2 / (cot + 1) * cot^0
+Denominator is identically zero — no valid angle	(1 cot^-2) / 3 + (cos^-3 / sin^-2)^3 / cos + (cos sec sin^0 - cot^-1 (tan * tan^-2))^-1 / (2 sin^-1 (1 csc) - (1 / sec 3 + 2))^0
+General rational expression exceeds the degree / complexity limit	sin * (1) 1 - ((cos / sin - sin * cos / sec)^2 / sin / (cos sec - sin^-3 / sec) + csc^-2 / (sin cot^0))^3 / cot^-2
+General rational expression exceeds the degree / complexity limit	((sec^0 * cot^-2) / (2 + csc 3) (sec cot^-1))^3 * cot^-3 * sec - cos - sec / (sec * sin^-2 + (sec / sin^3 / cot^0)^3 * (sec^2 * sec))
+Denominator is identically zero — no valid angle	sin^2 ((cot^0 cos / cot - sin)^-1 - (csc / sec 2 + cot^-1 / tan csc) tan)^2 * sin^-3
+General rational expression exceeds the degree / complexity limit	csc (2 / 3 - cos^3)^3 - 1 / 3 - (csc * sin^0 - tan^2 cot * cos)^-1 * cot^2 / (sin * (cot^3 * sin^-3 + csc^-3 / sin) / (2) - sec^-1 (sec / sec^-1 + csc^2 cot 3)^3)
+Denominator is identically zero — no valid angle	2 * cot^0 ((sin^-1 / cot^-3) / (sin^0 sin - csc^-1) + sin / (3 - sin)) - cos^-2 + 2 * cot * (tan + (cot * sec^2 + 1) / (1 * 2 / cot^3 - tan^3 / sin * sec^0) sin)
+General rational expression exceeds the degree / complexity limit	1 * ((sin + csc^-1 tan^2 2)) csc^3 + sec^2 / ((csc^-3 sin^3 - sin / sin^3) * (tan / cot * sin + tan^2 2) * 2 - csc^3 tan^2 * csc^-3)^3 - cot^-3
+Denominator is identically zero — no valid angle	((tan - cos / csc) / cos^-3 * tan^-2)^-1 - 3 (tan cot - 1)^-1 csc
+Denominator is identically zero — no valid angle	(sec / cot - 3) sec^2 / cos^-1 - cos / csc^0 / cot - csc / (cot^-1 - tan) tan
+General rational expression exceeds the degree / complexity limit	csc - ((cot cos sin + cot / 3) * sin * (csc / sin^2 sec + 3 sin cos) - cos / (csc - sin^3 cot^-3 cos) 1)^2 + ((tan^3 * sec - 2 * cos) - (cos sec * sec)) * sin
+General rational expression exceeds the degree / complexity limit	sec^-3 + cos^-1 cos^-2 * (cos - cot) - sin (csc^-3 sec^-2 sin)^3 / ((cot / cos / 2 + csc / sin / tan^-3) / sin (cos^-2 csc / sin - sec^0) - sec)
+General rational expression exceeds the degree / complexity limit	(csc / cos^-3 + (sin / sec) / (cos^0 / tan^3) * sin^-2) sec^-1 / sin^-3 - 3 (cos^-1 / sec^-3)^3 * (csc / (tan sec^-2 + tan^2 * tan)^3 * cos^-3) + cot
+General rational expression exceeds the degree / complexity limit	cot^-1 / ((cos sin^3 + csc cot^0 csc) / cos^-3 + sin^-3 * (sec - sec) * tan^-3)^3 - cos - 2 * cot
+Denominator is identically zero — no valid angle	csc * sin / (cos^-3 - cos^-3) + (tan^-2 * 1 * sec)^-1 - sin^3 * csc / (cot)
+General rational expression exceeds the degree / complexity limit	((tan / cot)^-1 * tan^2 / 3 + sin^3 / (tan^-3 + tan^3 * 2 / cos)^3 * sec) * csc + cos^-2 - cot * csc^0 / (cos^2 - cos^-2 tan / (tan sin^2 - csc^3))
+General rational expression exceeds the degree / complexity limit	(csc^3 / sin^2 - (csc sec^-2) / (sin^-2 sin)^2 * sec^0)^-1 - tan^0 - ((sec / tan^-1 cos - 1)^2 / cot * cos - (cos^3 * 3 / sec - sec / 1))^3
+General rational expression exceeds the degree / complexity limit	cot / cot^-2 (sec^-2 / sin * (sin - cot) + sec^0 / (cot / sin * cos - sin^-3 / tan^-2)^2 * 1)^2 - 1 / 3 * sin
+General rational expression exceeds the degree / complexity limit	tan^-3 sin / ((cos^-2 / csc^-3 / 2 - csc^0 cot^-2 csc^-2)^3)^2 + 1 sin cos^0 + csc sec * ((sin^-1 cot cot + sec) * 1)
+Denominator is identically zero — no valid angle	((cos + cot) / sec / (cot^0 / sec - cos)) * (sec * sec^2 / sec^-1) * sin + (cos^2) / (cot * (2 / sec / sin) + cos) / sec^-3
+General rational expression exceeds the degree / complexity limit	cos + (tan (sec^0) sec + sec^-3 * tan / (3)^0)^3 / csc + (csc + cot^3 * cos / (cot^-2 * 1 - sec / csc / csc))^3
+General rational expression exceeds the degree / complexity limit	sin / ((csc csc - 1 / sec^-3 cos^0)^2 / sec^-3 + 3)^2 tan
+Denominator is identically zero — no valid angle	sin^3 / (sec^0 - sin^0)^2 / ((sec^-1 / sin sec)) + 3 cos^2 + 1 * 3 / 3
+General rational expression exceeds the degree / complexity limit	sin^-1 - ((2 csc)^2 + csc sin^3)^-1 sin^0 - 3 / (3 (3 * cot - sec^0 / csc^3 tan)^2 * tan)^3
+General rational expression exceeds the degree / complexity limit	tan / (sec * cos^2 (sec^2 csc)^3 - 1) / (cos * cos^-1 + 2 / cot) + (cos^-2) cot * (3 * (cot^3 + cos^-1) * csc^2)^3 - sec^-3
+General rational expression exceeds the degree / complexity limit	cot / (sin^-1 * (cos^-3) + cot^2) - sin^3 + (tan (cot) (cos^-3 / cot) + sec tan^-3 tan^-3)^3
+General rational expression exceeds the degree / complexity limit	csc^0 / ((sin + tan^-1 csc * cot) cot^-3 + cos / (3 / sin sec^2) * (tan^0 / cot^-3 csc + cot)) + (3 / sec^-2 + (csc * sec / sin + 3 sec^0) tan * cos^-1)^3 csc (sin / 3 + csc * csc / (tan^-3 * csc^-2 cos^0))
+General rational expression exceeds the degree / complexity limit	((tan * cot^-3 / cos + 2)^0 * (cos tan^3 + cot^-1)^3)^3 (tan^0 / sin^3 + tan^0) / (tan^3 + cos)
+Expression too large for this prototype	1 * csc^-2 - (sec * (tan^-2 cot / csc^-3)^3 - (cos * 3 tan^0) csc (2 sin^-3 csc + 3 / sec^-2))^3 / cos^-1 - (sin) * 2
+General rational expression exceeds the degree / complexity limit	csc^2 (cot^3 / sin^-2 / (sin - cos cos^3)^2)^3 sin^-3 - csc
+General rational expression exceeds the degree / complexity limit	(csc^-2 / cos / (cos * sin csc^-3 + tan^0)^2 + sin)^3 / 2 - cos^-3 cot - tan 3 / cot^3
+General rational expression exceeds the degree / complexity limit	cot / (tan^3 cot^-3 - tan^-3)^3 - sin^2 * 1 tan^0
+General rational expression exceeds the degree / complexity limit	cos^2 + cos^-1 / ((sec tan + csc / tan^0) / (cos^2 / sec^-2 - cos^3 / cot / csc) cos - (tan^2 / sin * sec^2 + 1 * sin sin) sec csc)^3 / sin
+Denominator is identically zero — no valid angle	((tan * cos^0 / sin) / (tan^0 - cot / cot))
+Denominator is identically zero — no valid angle	sec * cot^-3 / (csc^-1 - sin) - csc^-2
+Denominator is identically zero — no valid angle	tan + tan^3 / csc^0 csc^-1 - (sec^2 / (tan sec + cos^-2)^-1)^2 * (sin^-2 / (csc / tan^2 sin) * csc - cot^-3 * (sin^-3 * csc cos))^-1
+General rational expression exceeds the degree / complexity limit	(cos^3) / (csc^-2 (sin) + csc^-2)^0 / csc^-3 + cot ((sin + sin * tan^-2 sin^-2)^3 - 2 * (csc * csc * sin^0 + cot cot^-1) / (csc sec^-3 - sec)^3) * sec
+Denominator is identically zero — no valid angle	cos^-3 / (1 * 2 / (tan cot / sec^0 - sin / sin) + tan / sec^0)^3
+General rational expression exceeds the degree / complexity limit	(2 * sec / sin - csc^-1) tan^2 - sec^-3 / (2 / sin / (cot * sin^-1 1 - 3) + 2 (cos^-2 * csc) / tan^-3)^2 ((cot^-3)^-1)^3 + cos^2
+General rational expression exceeds the degree / complexity limit	sec^2 * tan^2 / cos^-1 + ((sin * tan^3 / sec - 2 * cos csc^-3) / 1 / cot + cos^-2 / (tan * sec^-2 / sec - csc tan) cot^3)^3 sin - sec^-1
+Denominator is identically zero — no valid angle	cos^-3 sec^2 + 2 * tan cos + 2 / ((sec 1 - cot^0 tan / sin) csc^-2 * cos^-3)
+Denominator is identically zero — no valid angle	tan^3 * cos + sec (tan^-1 / (csc^-1 csc 1 - 1) + (cot^-2) / sec^2) * 1
+General rational expression exceeds the degree / complexity limit	2 cot^0 / sin^-2 - (cos sec)^-1 * sec / ((tan^-3 * cos sin^-2)^2 * sin^-3 + cot^-2 (cot))^2 - csc (cos + tan * (sin^-1 / cot))
+Expression too large for this prototype	((1 sin + cos / cos^-3 / sin)^3 / tan)^3 * cos^-1 - (cos / sin) / (sin - sin * 3) * cot - tan^-3 * (sec^0 / cot^0 - csc^2)
+Denominator is identically zero — no valid angle	csc^-1 sec^2 - (sec * (cos 2 + sec^0)) (sin^0 - 1)^-1
+General rational expression exceeds the degree / complexity limit	sin^-1 / tan^3 * csc - 3 / ((tan csc^0)^-1 - (csc^-3)^2 * (tan - cos / tan^3) * tan^3)^2 * (2 cot)^-1
+Denominator is identically zero — no valid angle	2 + (1 * sin^-3) (2 cos)^0 * (cot (cot^2) + tan^2 * (cos 1 - cot * cot^0 / tan^-3)^0 (cos^0 cos - cos)^-1)^-1
+Denominator is identically zero — no valid angle	csc^-1 cos^-3 (sin csc^-1 / (1 / sin^-2 + 3)^2 + sin^2 / 1 / cot) - (sin^-3) * ((3 * 2 / csc - sin) + tan^0) / (cos cos^3 - cos * sec^-2 * sec^-1) - 3 / csc
+General rational expression exceeds the degree / complexity limit	2 / cot^-3 / ((sec / csc) 2 + (sin cot) * (cot / cos^-2 + cot^3 sin^2 cos^-2) * (csc - cot)) - ((csc + tan^3 sec) + csc^-2)^3 - (cos^0 * 3 csc - (sin sin^-2 * cos^-3)^-1 * (tan 3) / (3)) / csc
+General rational expression exceeds the degree / complexity limit	(sec / 1 / (sin)) * tan / (sin / sec (cot / sec^2)^0 + (tan^3 + csc cos)^2 * tan)^3 - tan * ((csc sec^-1)^-1 tan^-1 / sin - 2)^-1
+Expression too large for this prototype	cot^0 sec / (sin^2 - cot^2 / (sec * sec sec^3)^3)^3 - (sec csc / sin) / csc / sec^-3
+General rational expression exceeds the degree / complexity limit	(cos^0 / (cos) - cos)^-1 / ((cos / cot^-2 - csc / sin) / tan^0 + (csc^2 / cot^0 csc - cos / csc^0) (1 1 / cos + 1 sin)^3)^3 + cos - (sin^-2 * sec^2 / cot^-2)^-1 sec^0
+General rational expression exceeds the degree / complexity limit	((csc^-2 cos / tan)^3 / (csc / sec * 1)^-1 - tan)^2 / tan^3 / sin^3 - sin^-3 * sin / ((2 + csc) cot + csc^0 (cos csc^-3 * cos - csc) (sec + cos^-1 csc^-3)^3) - 2
+General rational expression exceeds the degree / complexity limit	(1) + (sec^3 (csc) (cot^2 / 2 * cos + cot^-3 * csc * sec^0)^2)^3 - (sin * cot / (sec) + cot^2 csc / (tan - csc * cos^3))^-1
+General rational expression exceeds the degree / complexity limit	((sec / tan^-2 - sin sec^-2 sin^-2) / (csc * cos^3 + cos * sec) / csc)^3 + cos^0 sec^-2 ((1 / sec^2) cot^0 sin) + tan^-3 * sec / sin
+Denominator is identically zero — no valid angle	(sin / sin^0 - sin)^-1 / sec^-2 cos^2 + cos + 2
+General rational expression exceeds the degree / complexity limit	(csc^-2 * (cot * sec^-3)^-1)^-1 * ((cot - tan^2 / 2) - (cot sin - csc^-1 * 1 * tan) * 3 / sin^-3)^3 / csc + csc^2 * sin * cot - (sin^-2 csc)^-1 / ((sec / sin - 1 * csc) + (sin^2 / 3 - 3 / 3 cos)^2) (sec^-3)
+General rational expression exceeds the degree / complexity limit	2 * 3 / ((2 + sin * 1) * (sec)^-1) - (csc^0 * sec^0 - (sec^2 * csc * 1 - 2 * cos)) * csc^0 / ((sin * sec csc^3 - cos^3 cos / csc)^3 / cos / cos^0 - cos^-2 * sec)^-1
+General rational expression exceeds the degree / complexity limit	((csc / tan^-1 + csc * sin cos^0) + (2 * sec * 3 + sin / sec / sin^-2)^3 * (sec csc^2 / tan + csc^0 * csc^-1)^2)^-1 sec
+General rational expression exceeds the degree / complexity limit	sin / ((csc / sec + sin^3)^3 / csc * 2 + (sec csc * cos)^-1)^3 * 2
+General rational expression exceeds the degree / complexity limit	cot - sin csc (cot * (csc * 2) - (sec cot - sin^-3 / tan^2 3) / (cot + tan^3 * csc^0 / sin^-1)^3 sin^-2) + sin^-2 (cos^3 * (sec^-1 * 1 - csc * csc 3) + tan / cot^2)^2
+General rational expression exceeds the degree / complexity limit	3 * 1 + 1 * ((csc^3 csc * csc + cos^0) / cos^2 * 2)^0 * ((csc cot^2 - cos) * cos (csc^2 / cos / sin + sin * tan^0) + (tan^3)^2 * (sin^-1 sec^3 / cot - csc^-2)^3 / cot)^-1
+General rational expression exceeds the degree / complexity limit	1 - (csc / sin^2 * cos) / (tan / 1 - sin^-1 * (1 cot^-3 + 2)^2 / (sin * 1 csc^2 - sin^-3 / 3)) * sin + tan * ((csc) + (csc + tan^-1 3))^2 / (cos^-3 sec / cos)^3
+Denominator is identically zero — no valid angle	sec (sec^2 (3 * 3 cot + sec^-2)^2 - csc cot / (cot sin csc - cot)^-1)
+Denominator is identically zero — no valid angle	sec / (cos (cos^2) / tan - cot * sec^-3) - sec - 2 * cot * sin^-2
+Denominator is identically zero — no valid angle	csc^2 (tan / (sec^0 / cot / sec) * sec - 2 * (sec * cos^0 - sec sec cos)^-1 cos) * ((tan * sin / cot)^-1 / 3 - (tan^-2 * cot / cos^-1) / csc) + sin cot^3 * csc
+General rational expression exceeds the degree / complexity limit	cos^-3 * csc^3 / tan + ((sin * cot * sec^-3) / cot)^2 * cot 2 + (tan * cos / (3 * 3 + tan^-3 sec^0)^3 + (sin tan - csc csc / sin) / (cot) * tan^3)^3 ((cos 2 2)^2 / tan^2) 1
+General rational expression exceeds the degree / complexity limit	csc^-3 * cos^2 * ((sin + sec^-2 csc^-2)^3 (tan / cos)^0)^2 + csc^-2 / ((cos^-3 / tan tan^-1 - sec^-1 / cos / cot^-1) (sec)) * cot^-2
+Denominator is identically zero — no valid angle	csc - ((tan * sin^-1 cot - sin^-2 sin)^-1)
+Denominator is identically zero — no valid angle	3 sec^-1 * 3 + sin^-3 + ((cos + cot^-1) * (csc^2 / sin - csc^3)^3)^-1
+General rational expression exceeds the degree / complexity limit	cot^-3 (cot^-1) csc^-3 + cot / (sin * (cos / sec + 2 csc^-3) / (cos * cos^-2 cot - cot^-3 sin * 3))^3 sec^0
+General rational expression exceeds the degree / complexity limit	((csc) / sec^-3)^3 / cot (cot / cot^-1 / (sec^2 tan + csc / csc cot) + csc)^3 + csc + cos
+General rational expression exceeds the degree / complexity limit	sin^-1 + cos / tan^0 1 - csc * sin^0 / (cot^3 / cot^-3 / sin - sec^0 * tan^3 / sin)^3
+General rational expression exceeds the degree / complexity limit	sin 1 - sec - (sin / (cos^2 - sec tan)^2 - cot / cot * csc)^3 * csc^-1
+General rational expression exceeds the degree / complexity limit	cos * (csc^-2 * csc - (cot cot^-1 / sin) sec)^2 + ((tan^-3 / cot^0 - tan sec * sin^2)^3 / (cos / 3)^3)^2 / ((csc * sec + sin^-2 cos) * (sin) - 1 * csc^0)
+General rational expression exceeds the degree / complexity limit	cos / (3 (csc^3) / (tan / cot^-2 / csc^-3 - 1)^2)^3 + tan^-1
+General rational expression exceeds the degree / complexity limit	2 / cot^-3 / (sin^-1 * (sec^-3 * tan + tan) + (cos^2 / sec / cot^-1 + sec^-2 * sec^3 * sin^-2) sec sin) + sec^-3 * (2 * cos^0 (tan + tan^3 * sin cot)^3) * (sin^-2 / (csc^-1 / cos^-3)^3 - tan^0)^3
+General rational expression exceeds the degree / complexity limit	sin 3 * sec + 2 / cot^-1 - (csc^2 + tan^-3 * (csc^-3 / sin^-1 - sin^-3 * 2)^3)^-1
+General rational expression exceeds the degree / complexity limit	cot / csc / (cos^2 / 3 tan^-3 + (cos^-2) * (tan + sec^2 * csc / 3))^3 + cos^0 / sec^0 / sin^-3 + cot^-3 * sec^2
+General rational expression exceeds the degree / complexity limit	cot^2 csc / sin - csc / ((tan / cos * tan + tan * cos)^2 * sec / (cot^-3 / cot + tan)^-1)^3 / 1
+General rational expression exceeds the degree / complexity limit	((sec - cos^-3 * csc^3 csc^-3) - sin^2 / sin cos^3) / (cot / cot^-1 / csc^2 + (tan * sin^-2 tan - sec^-1)^2 (cos cot / 2 - 3 / cot))^3 - tan / (cos^2 * csc * sec - (cos) cot / csc^-2)
+Denominator is identically zero — no valid angle	sin^3 / sec^0 * sin^-2 - sec ((sec^0 cot sec - sin / cot) cot^-2 - (sec * cos^0 * tan^3) / (sin^-3 / sec^0 - csc^2 sec * cot)^3 (sin - cot^0)^3) * cot^0 - cot / (cot^-2 / cot * cos) / 1
+General rational expression exceeds the degree / complexity limit	(sec^3 / (cot^2)^3 + 2 tan^-2 * csc^2) - (cot / 2 - (cos / sec^3 sin + 2 / tan^-3 tan)^3 / (sec / csc / cos - sec^2) sec)^-1 + sec
+Expression too long	2 * ((csc * cot) (3 * tan * 1) - cos / (sec^2 * cos * csc)^3) / (sec * (sin + sin / csc) / cot^2 + (cos 3 * sin - sec / sin))^2 + (sec^2 / (cot^-2 * sin 2 - cot / tan)^2 - tan^-1 (tan sin^-3 tan - 3 * csc)^0) * sin^-1 (tan * sec * sin + (sec^-3 * cot / cos)^2 / cos^3 / cot) + (sec + (sec * sin))^3 / ((sin^2 - cos))
+Expression too large for this prototype	cos (1 / csc^0 2)^2 cot^-2 - (cot * (sec + sec sec^-3 / cot^-3)^3 + sec^-1 * (sin cos^-2 - cos^-2 sec^0 * cot))^3 * (tan / cot - cot / (cos) sec^3)^2
+General rational expression exceeds the degree / complexity limit	3 * sin^-2 (sec (tan + sin^2 cot / tan) + csc)^2 + sin^-2 + 1 / (cot^3 / sin * csc^3)^3 / (sin^-3 * (cot - cos^-1 * 1 / cot) / 3 - cot)
+General rational expression exceeds the degree / complexity limit	(sec^-3 sec^-3 - cot)^3 + cos^0 / (1 / tan^3 / sin^-3 - csc) - cot^0
+Denominator is identically zero — no valid angle	1 tan^-1 tan - sin^2 / (csc^-1 / cos * cot - tan * cot * 1)^-1 - (cos + (sin^0 sec) * tan / 2)^0
+Denominator is identically zero — no valid angle	(tan^-3 + (sin^-3 / 1 * 2)^3) cos + 3 - 2 * ((cot) / (sin) - csc * cot)^-1 cot^3
+Denominator is identically zero — no valid angle	((csc / tan)^3) / sin^3 + cot (tan / sec - 1 / csc)^-1
+General rational expression exceeds the degree / complexity limit	2 / (tan^2 * tan^2 (sec csc^2 / sin - cos^2 * sec^-1) - cot^3 cos * sec^2) / ((sec^2 cos^-3 / sec)^3 * (sin sec)^2 * cot + 1 (sin) * (1))^-1
+Expression too large for this prototype	cot^-2 / (cos^-1) * tan + (cos - (sin^-3 cos csc^2 + cot * csc / tan)^2 * cot^-3) ((sin^-1 + csc tan^-3)^3 * csc / sin)^2 / sec^-1
+Denominator is identically zero — no valid angle	(1 - sin^-2 sin * csc^-1)^-1 + cos^3 / (cos^-1 cos^-2 sin^0 + sin^0)
+Denominator is identically zero — no valid angle	cos 2 sec^2 - 2 * (tan^-3 - sec / (cos - cos)) + 1
+General rational expression exceeds the degree / complexity limit	cot / 2 csc - cos csc / ((cot - cot^-3)^2 csc^3 * 1 - cos^-3 / (tan * sec^-1) / 1)^3
+General rational expression exceeds the degree / complexity limit	sin (sin (cos^3 * tan + sin) - (sec cot^-2 sin + sin cot^2 / cos^2)^-1 cos)^3 / (sec^3 * cos + 3 / (tan - sin / sin^3)^3 tan^2) - csc * tan^0 + 3 * sin
+General rational expression exceeds the degree / complexity limit	tan^2 / cot 3 + sin / (sin (cot^3 * tan^-3)^2 + sec^2) (cot^3 / (cos^2 - tan))^3
+General rational expression exceeds the degree / complexity limit	2 (3 cot^-2 + (cot / tan / sec) * sec) / ((cot / 3 * 2 - tan * cos^-2 csc^-3)^2 * cos)^3 + 2 ((tan cot)^0 * tan^3 / sin^-1 - (cos * sin - 3 cos))^-1 * cos^-2
+General rational expression exceeds the degree / complexity limit	cot^-2 - 1 / csc^0 (csc) + cos^-2 / (cot (sin * sec csc)^3 * cos + (cos + tan * sec * tan)) ((cos^-2 / cot * sec)^3 sec / 1 + 1)^2
+General rational expression exceeds the degree / complexity limit	((sin * cos / csc - sin^3 * sin^3 tan^0) / (cos^0 / sin * tan) / sec^3 + (tan) / (cot - 3 / cos)^-1 / cot)^3 * (csc^3 / 3 / sec^-3)^2 - (2 * sec) - tan / ((1 + cot tan * cot) / cos^-2 - csc cot^-3) cot^-1
+General rational expression exceeds the degree / complexity limit	sec cot - tan csc / (3 * 1 * (csc * cot^3 * cot - cot * tan)^2 + (cos * cot - 3 * cos^-3 tan)^3 csc * 2)^-1
+Denominator is identically zero — no valid angle	(cot cot^2) ((cos + sin / cos / sec^-2)) / tan^3 - (cot) / ((cos / cos^0 - sec^-1)^2 / cos) sin^2
+General rational expression exceeds the degree / complexity limit	sec^-1 / tan + (cot) / (3 / (tan^-1 * cot - cot^-3 / sin) + csc^-3 * tan^0 * cot)^3 * (sec sin^2 - (cos / csc csc) * cos^2)
+General rational expression exceeds the degree / complexity limit	((sec)^3 tan) * sin + cos / sin * tan + (cot / csc^3 / (sec^3 / cos + cos^3 * cos / 3)^2 + 3 * (sin^-1 / sin / cos - cos / sin)^3 / cot^-1)
+General rational expression exceeds the degree / complexity limit	cot^-1 / (1 + sin (cot^-2 / cos)^3 * (sec - cos / tan^2))^3 + tan^-3 / ((csc / sec / 2)^0 * csc^-3 cot - (sec - 1 2)^3 / sec^-3) + (cot / 2 sec - cos * csc) / (csc + 2 (sec)^2)^0 (sin^3 / sec)
+Denominator is identically zero — no valid angle	(cos / csc / sin + cot) * (csc + 3 cos)^2 / (tan (csc - csc) csc^3) + cos - csc^3 * sec^-2
+Expression too large for this prototype	sec^-2 / 2 + ((tan^3 / sec^0 / cos - cot)^3)^3 (csc^0 (cos^-3 sin^0 - tan * cot) - (cos / 3 * csc - cot^3 / sin^-2)^0 / (sec sec sin + 3 / csc^-2)^2 * (csc / sec)) - cos / 3 / 2
+General rational expression exceeds the degree / complexity limit	2 (2 / csc)^0 - ((csc / csc^-1 cot^3 + cos^-2 / cos sin)^2 * 2 + (tan^0 * csc) / cos^-2) / cos^0 / ((sec^2 * sec^2 - tan * sec^3) cot^-1 * (2)^0 + (sec^3) * tan^-3 / (1 cot^-1 * 3 - sin^-3 / sin^0)^2)
+General rational expression exceeds the degree / complexity limit	(1 * tan / csc^2) / ((2 / csc / tan^3 - cot) - sec * (cot + tan)^3) - (tan^-1 + sin)^0 / (csc^-2 * sin * (sin cot^3 + sec tan)^3 - tan^0 * sin * cos^2)^2 * tan^0 + sin (sec)
+General rational expression exceeds the degree / complexity limit	((1 / cos csc - sin / tan / sec^3)^-1 / sec (1 - sin^2)^3) / ((cos^2 / cot^3 - cos^3)^3 * sec (tan^2 / cos)^3 + tan) + tan^3 2
+General rational expression exceeds the degree / complexity limit	csc sin * (tan / cot * csc^-1)^2 - ((cos^0) / (cos^3 * cot * 3 - cot^0 cot * csc) * cos^-1 + cos^0 * cos^2 * 3)^3 (sec / cot * sin + cos * (cos^-3 / tan * sec - sin)) / csc^-2 - csc^0
+Expression too large for this prototype	((sin sec) - (tan * tan^-2) / (tan^0 / tan)^-1) + sec^-1 * (cos / (sec) csc)^-1 * ((1 * cot * cos^-3 + cos^-3 * csc tan^-3)^3 + cot)^3
+General rational expression exceeds the degree / complexity limit	((cot^0 * sin cos^3 - csc^-1 * sin * tan^2) * (tan - sin^-2 1) + 1 / (csc / tan^3 3 - sec cot / tan) * cos^-3) / tan^-2 * sec^-1 + sec^0 (sin^2 * (sec + sin^3)^3)^-1
+Denominator is identically zero — no valid angle	2 - ((tan - tan)^-1)^2 * (csc^-2 * 3 * sin + (tan * cos 1) / 3) sin
+General rational expression exceeds the degree / complexity limit	cot^3 cot^3 + ((tan - csc^-1 sin^2) * (2 * tan)^2) / (cot^0 / sin / csc^3 + (cos sin^-3 / cot^-3 - 2))^3 * csc^2
+Denominator is identically zero — no valid angle	(tan^2) 2 sec - 2 2 + (sin^0 / csc^-1 * (csc - 2 / cos^2)) / ((2 / 2)^-1 * sin^-2 - sin^-2)^2
+General rational expression exceeds the degree / complexity limit	sec (1 * tan / (sec sin + cot / sin^0 * cot)^-1)^3 ((sec sec^-3 + cot) * (sin^-2 cos - 2) + sec^3 * cos * csc^-2)^2 + ((csc + sin)^2 * (csc^3 * sin^-2) + sin^-2)^3 - cot^-3 * sec
+Denominator is identically zero — no valid angle	2 * tan / (csc^2 - csc^2)^3 + csc + 1 / 1
+Expression too large for this prototype	sec + (1 (sin^-1 + tan * csc^0) cot - sin sin^3 * (2 * cos * csc + csc^-3)^3)^3 * cos 3 + cos^-2 / tan
+Denominator is identically zero — no valid angle	(sin) / ((cos^3 - sec^-3)^-1 / csc^0 cos) * (sin / cot^0)^3 - cot * sec
+Expression too large for this prototype	csc / cot - (tan - (2 csc) * (sec) (sin / cos * sin - sin * cot^-3)^3)^3 * (sec^-2 * (csc)^2)^3 + cot * 2 ((sec)^0 + cot / tan^-3)
+General rational expression exceeds the degree / complexity limit	sec^-2 * csc / (2 * tan * 1 - sin sin^0) - (sec^-3 (sin tan^-3 + csc^-3) * (cos cot^-3 sin + 2 sec^-3 / tan)^-1 + (cot^0 - cos) * (1 * tan^3 - sin)^2 / sin)^2
+General rational expression exceeds the degree / complexity limit	1 * ((3 / csc^-3)^-1 * cot^-1 - cot^-2 sec sec) / ((sin^-1 / sin / sin^-2) / csc + (cot^2 cos * cot^3 + sec * sec)^-1) + tan * tan^-1 - (sec * 2 / tan^-3 - sin^2 / (csc^0 * tan * sec^2 - sec^-3 * csc^-3)) / 2
+Expression too large for this prototype	(cos^2 cos - cot tan) + ((sec^-3 / tan * 1 + cos / sec)^3)^3 + csc^3 * tan^2 / ((tan / sin^-2) cot)
+General rational expression exceeds the degree / complexity limit	((2 / sec + tan^3 / tan^2)^-1 / (tan / sec - cot^-2 / cot) (2 + tan^0 tan 2) + 1 * cos)^3 / csc / csc^2 + (csc / (cot^3 csc) / csc^0)^2 3 * cos - tan^-1 * sec
+Expression too large for this prototype	((sec cot / csc^-3)^3 / tan)^3 cos * ((sin^-1 - cot tan / csc^-3) csc / (sec^3 * csc / sin + csc * cot^2)) - sec^-2 sec
+General rational expression exceeds the degree / complexity limit	(sin^-1 + sin^2) 3 / sec - sec * (sin^3 / cot^0 - sec^-3 3 * (cot)) / cos^-2 - (csc^3 3 + cos^0 * (csc * sec - sin sin)^3 * 3)^2 ((1 - cos^-2 * sec * sin^-2)^-1 (tan / tan sin^3 - sec^-2 / tan) * (tan))^2
+Expression too large for this prototype	2 / sin + (cot^-3 * 1 cos + (sec^-2 - cot sec)^3 / 3 cot)^3 cot^3 * ((tan - cos) (csc / sin^-2) * sec - sec cos)^2 - 1
+Denominator is identically zero — no valid angle	((2 + csc * cot csc^3) + cot^-1 * csc) ((cot^2 * csc - cos / tan^-2)^3 / cot^-3 / sec^-1) / ((csc^-1 + sin * 1) * sec / cot - (tan^-2 sin + csc^0 cos^0 sin) / (sec * cos - tan^0) / 1) + cot
+General rational expression exceeds the degree / complexity limit	1 cos^0 + ((csc + sec * 1) * csc^3) - sin^2 * ((sec sec * sec - sin^0 cos * cot) / (csc * tan + cos^3 * tan sec^0)^2 (1 sin)^3 - csc / sec * (cos / 2 - cot^3 / cot csc^2))^3
+Denominator is identically zero — no valid angle	cot / (3) + cos / ((csc + sin)^-1 / (1 - tan^0) + (tan^2 / tan^2 / tan))
+General rational expression exceeds the degree / complexity limit	cot sec (tan^-2 / (2 / csc cos^-1 - sec^-1 / cos^-2 / csc)^2 + 3)^2 + (sin sin^3 2 + sec^3) + (sin / (cot) - csc^0)
+General rational expression exceeds the degree / complexity limit	((cos csc * cos - cos^-2 * cos * sin^2)^3 / tan)^3 * (tan^0 / (sec csc + cot / sec^0 1)^-1 / sec^-2) - sec^-3 / sin
+Denominator is identically zero — no valid angle	csc / (sin - sin) - (csc^-1 - tan^2)
+General rational expression exceeds the degree / complexity limit	((sec^-2 / cos^-3 - cot^3)^3 cot / (csc / csc / cos + sec)) (sec cos^2 * cot + cos) / 3 + ((sec csc sec^2 + sin^-1 * csc)^-1 / csc - sin cos^0 (sec sec))^0 * 3 tan^-2 - cot^2 (cos / 2) sec
+General rational expression exceeds the degree / complexity limit	(sec^2 (sec * sec * sec)^2 * sin^-3 + (sin csc)^3 * csc)^3 + sec^-3 / (tan^-1 * (cot / 1 - cos)^-1 / cos^-1 - tan^0)
+General rational expression exceeds the degree / complexity limit	(sin^3 * sin^0 - (tan^-1 1 + csc^-3)^-1 3)^3 - 1 * 1 cot^-2 + (cot^3)
+General rational expression exceeds the degree / complexity limit	((tan + 3 * csc^-1) / (tan csc / 1 - cot^3) * (sec - 3 * sec / csc) - sin * (cot + sin * sec cos)^2 * cos)^3 / (cot^-3 tan^2 - csc / csc^-1)^2 / (2 / cos / cot^0 + tan^0) + sec - sin^-2
+General rational expression exceeds the degree / complexity limit	1 + 3 / tan^0 / (tan - (cos / tan / csc)^2 * (sec / cos) * (2 / sin - tan^-3 * cot^2 * cos))^3 - cos (cot / cos - csc^-3)^-1 / sec^-3
+General rational expression exceeds the degree / complexity limit	csc - sec / ((csc - sin^2 * 1 cot) / csc^3 (sec^-1 cot - 3 sin * cot) - (cot) / 2)^3 / sec^-2
+Denominator is identically zero — no valid angle	cot^-2 (sin * tan / cot^0) / (csc - csc (1)^-1)
+General rational expression exceeds the degree / complexity limit	cot / (tan / sec + (csc / cot^-3 cos)^2 / (tan sec) / sec) csc^-1 + cot + tan^2 * (csc^2 * cot - cos tan tan)^3
+General rational expression exceeds the degree / complexity limit	(sin / (sin^3 / sec^2)^3 - (csc * cos^3 * cos - sin^-1 / 2 * tan) / 3 / (cos))^3 * sec^-3 - 1 3 / ((cos * 2 sin^-3 + tan) * sec + cot^0 * tan^2) + 3
+General rational expression exceeds the degree / complexity limit	(csc^-1 * (3 csc) / (cos^2 + cot * cot^-2 * tan)) + ((cot + tan * sin) / (2 * tan^3)^2 / sec^2 - cos^-3 * 2 / cos) (1 / (1 + cot csc^3 * cot) (sin^-3 - cos) - tan^-3 / csc^2 sec^-1) + sec^-1
+General rational expression exceeds the degree / complexity limit	3 * (tan) csc + csc ((sec^-3 cot)) - cot / (sec^-3 / (1 - sec * sec * cot^-3)^2 (cos / sec^3 / sin) - (sin^-3 - csc / csc^-1) / cot^0) * cos^-3
+General rational expression exceeds the degree / complexity limit	(cos^2 + sin^2 sin^-2) / ((sin csc^-3 * cot + sin sec csc)^3 * (csc^0 sec^0 csc^0 - cos tan 2)^3 / cot^2 - csc^2 / cot^-3)^-1 / cos
+General rational expression exceeds the degree / complexity limit	2 1 * ((csc / cot^3 * sec - cot^3)^2 / (tan sin^-3 - cot 2 sec) sec)^3
+General rational expression exceeds the degree / complexity limit	csc^3 * (tan^-1 / (sec * sin^-3 csc^3 - cot^-1 / tan^-1 * csc^3) + csc)^3 + sin^-1 * (cot / sin * cot^2)^3 csc^3
+General rational expression exceeds the degree / complexity limit	((tan / sin^-3 + 3 2)^2 * 3)^-1 * cos * tan - (csc^3)^-1 + (sin^3 * (2 / sec) - (cos / 3 - cos^0 / sec * sec) csc * (3 sin^-2)^2)^3 * 2 cos^0
+General rational expression exceeds the degree / complexity limit	(3 + 2 cot^0 csc)^0 1 (tan^-1 csc^-2 (cos^-3 / csc)^3 - csc^-2 * tan^-1 / sin)^3 + tan^-3 - ((cos) / tan + sin^-1 (cot))^-1 / 3
+Denominator is identically zero — no valid angle	tan + ((csc cos) cot * 2 - (cos^-3 + cos * tan * csc) / (csc * sin - tan cot))^2
+Denominator is identically zero — no valid angle	csc^-3 - 1 / (sec^-1 - cos)^3 + cos
+Denominator is identically zero — no valid angle	sin 1 * (1 * csc (tan - tan * sec^0)^-1 + (cos sin / tan)^3 sec * cot^3)^0 + sin + sec / sec^2 / (csc^2 * cot)^-1
+General rational expression exceeds the degree / complexity limit	((cot / cos sin + 2 * sin * csc)^0 / csc^2 (sin * 1 cot + tan)^3)^3 / tan^0 * (sec^-3 / (sin^0 - cot)^-1 csc - csc^-2 csc^3) - (csc^-1 / (csc^-1 * sin)^3 + tan^-3 * (tan * cot^3 - cos)^2 * tan) / (cos^-3)^-1
+General rational expression exceeds the degree / complexity limit	((cot 3 / tan)^2)^2 / ((1 sec * tan^0) tan^3 * cos^-2)^3 / cot + sin^2 (sec sin^2 + 2 / (tan + cot / tan * sin))^-1
+Denominator is identically zero — no valid angle	3 cos - (tan / (sec / cos * 2 - 2 sec * cos^-1) - (cot - sin / sec) * tan) * csc^-2
+Denominator is identically zero — no valid angle	2 * 3 + 3 csc^3 / (3 * 1 tan - sec / (3 - 1 / cot) / cot^-2) + cot * (1 - sin^0)^-1 * cos
+General rational expression exceeds the degree / complexity limit	((tan / cot^2 * 1 + csc^2 * cot)^3 / (csc * sin^0 * tan^3)^0 / (2 tan * cos^-3 + tan tan) + sec^-1)^-1 * sec^-2 * 2 - cot + sin / sin / sin
+General rational expression exceeds the degree / complexity limit	cot * cot^3 ((csc^-1 cos / csc - csc 1 tan^3)^3)^-1 - (cos^3 (tan + cos / cot^-1 * 2) * (sec)^2) + 2 cot^-2 1
+General rational expression exceeds the degree / complexity limit	sin csc^-1 ((1 sin^0 + cot cos tan^2)^-1 * sec * (tan) + (sin^3 / csc)^3 tan)^3 - cot^-2 * sec^3
+General rational expression exceeds the degree / complexity limit	csc^-2 * sin + (3 / (cos^-2)^0 / tan + cot * cot^3 * csc^-2) * 3 * (cos / 3 - sin / sin^2) - cot / ((cos / cos^-3 + tan sin csc) (3) * sin^3)^3 / sin^0
+General rational expression exceeds the degree / complexity limit	((csc^-2 sin / csc^-2)^2 / 2 + (cot / tan * sin + sec^-3) cot / (cos * csc^0 + cos^3)^-1)^3 + ((cot^-2 / csc * sec) (3 / csc^0 * 1 - 2 cot^0) - sin^-3 / (1) / csc^-1) sin^-2 - cos^2
+General rational expression exceeds the degree / complexity limit	cos^-2 / ((csc^2 * sec^2 * cot) * csc cot^3 + csc sin^-1)^3 + (2 / 2) * cot / (tan cos / (csc + sec * sec^0 / cot^3)^2) + cos^0 / csc^-2 / csc^-2
+Denominator is identically zero — no valid angle	(tan / (cot / cot / cos - sec) sin^0 - sin^3 / csc^-2 csc) tan^0 * csc^-3
+General rational expression exceeds the degree / complexity limit	tan^-3 * cot + sec / csc - (tan^-2 / (sec^2 - tan^3)^3 / (csc sin^3 / cot^-2 + sin^-2 * cos)^3 - csc^0 / csc^-3 / (cot csc / sin^3 + cot^-2 3 / csc)) * 3 sin^3
+General rational expression exceeds the degree / complexity limit	(sin - (sin - sec^-1 / 2 * cos^-3)^3)^3 / (sin^0 * tan + cot) tan + cot
+General rational expression exceeds the degree / complexity limit	tan^-3 (cos^3 2 / cot + (tan - csc^-1 / tan))^3 + (cot * (sec^3 cos) * (cos^-3 / csc^0 / tan) - (sec * sin / cos - tan^-3 cos sec^-1) * (2 / sin - cot^-2 * sec * tan^0)^-1 * (sin / sin + sec sec^3)^2)^2 - 2
+Denominator is identically zero — no valid angle	sin * (cot^-2 * sin (csc / 3 / cot - cot * sin^-1 / cot^-2) + csc^-3) * tan - cos^2 cos + ((tan^0) - 1)^-1
+Denominator is identically zero — no valid angle	(cos^-1 / csc^0 / csc^0 - tan^0 / (tan)^0 / (sin - sin)^-1)^-1 * (cos^2 + cot * sin * (csc^-2 - cos))
+General rational expression exceeds the degree / complexity limit	sec * cos^-2 / (3) - sin^0 + (cos^3 sec^-1 * 1 - tan * sin^0 / (csc * cot^2 sec - 3 * cot^-2))^2 * (cos^3 + cos^0 (cot - csc / sin * csc))
+General rational expression exceeds the degree / complexity limit	(1) / ((sec^3 * tan + tan^-3 cos^2)^2 / 2 - (tan * tan^2 + 1 cos / csc^-3)^-1) * cos - sin 3 * sin^0 - sec cos^2 / (1 - 3 tan)
+General rational expression exceeds the degree / complexity limit	(sin^0 / tan) - ((tan * sin^-3 / sin^2 + sec / cos * tan^2)^-1 * sin)^3 (csc^3) * sin^0
+Denominator is identically zero — no valid angle	3 / (sec - sec)^-1 - (csc^2 tan 1 - tan (cos^-1)^3)^-1 sec
+Denominator is identically zero — no valid angle	(sec - (sin * tan - tan * sin)^-1 sin^-3)
+Denominator is identically zero — no valid angle	(sin^3 - 1 * (cot csc + sec) * cot) / ((cos / csc - sin / csc cot) * (cos / 3 + cot)) / tan + (sin^3 + csc^0)^3 / cot + csc^-2 * tan / cos^-2
+General rational expression exceeds the degree / complexity limit	sec^-3 * sec / (csc + cot (csc / tan^2 * cos^0)^3)^3
+General rational expression exceeds the degree / complexity limit	cot / (cos (sin - 1 * cot) / 1 - sin^2 / (cot^3 - csc^-1 / csc))^3 + cos * tan - 2 * 1
+General rational expression exceeds the degree / complexity limit	(sin^2 sin + (tan^2 * sec / cos - 2 2)^-1 * cot^-1 * tan^-3)^3 cos^0 - csc^0 * tan tan^-3
+General rational expression exceeds the degree / complexity limit	tan^-1 / (sec * cot^2 * csc^-3 - csc * csc^3) + sin * sec / (1 * 2 - (csc / 3 + tan)^3 * (tan^-3 - sec)) - (csc - sec / (3 csc + sec cot^-3)^3) * sin^-3
+Expression too large for this prototype	csc^-3 * ((tan^-3 - csc / 2)^3 * (cos^3 / sec * tan^-3 - 2)^3 / cot^0)^3 / (cos^2 + tan) - (sin^-2 sin * csc) / ((3 * sin * cos - csc^2) cos^-1 / cos + cos^-1) + sec^2 / tan^2
+Denominator is identically zero — no valid angle	(csc^2 * cot / (cos^-3 - cos^-2 sec))
+Denominator is identically zero — no valid angle	cot csc^2 sec - cot^0 / (tan * 2 (cot - 1 / cot^-1)) - 3 1
+Expression too large for this prototype	cot^2 * ((csc - tan)^3 * (1 / tan^-3 * sin)^2 tan - csc / tan^-2)^3 / (sin / tan^2)
+Denominator is identically zero — no valid angle	tan - cos / (3 - 3) + cos * sin^-1
+General rational expression exceeds the degree / complexity limit	sin^-2 - ((cot * cot cot + tan^-2 sin)^2 3 / (cot^-1 - 3 sec / 2)^2 - sec)^2 * (cot^0 * 1) * 1 - tan^3 / (sin^-2 * 1 - tan^-3 / tan / 1) * csc
+General rational expression exceeds the degree / complexity limit	tan^-3 - csc^0 * tan^3 * ((sec^-3 + cot^-2 * sec / csc^2)^-1 (3 / cos^3 * cos)^2 / 3 + (2 / cos^2 * tan - cos^-3 / tan^0) (csc + sec^2 / csc) cot)^3 - (sin * csc cot + (cot) / sin)^0 * cot
+General rational expression exceeds the degree / complexity limit	(cos * tan^3 * (sin^3 / 3 + cos^-1 / tan) + (sec + sin)^-1 (csc / csc cot - sin^-1) / (tan + cot / csc))^3 * (2 - (tan cot^2 / sin + csc^-1 cos)^3 1 * cot^-2) + sin^2 tan^0 - (2 / tan) / 3
+General rational expression exceeds the degree / complexity limit	3 cos * (csc^0 + sec^-2 / 1) + cot * (tan^-3 / tan + (1 + sin / cot^3 sin^3)^-1 cos^-2)^-1 / ((sin^3 tan) (sin tan^3 cos^-2 - cos^3 / tan / csc) cot - tan^3 / cos^2)
+Denominator is identically zero — no valid angle	cos (sec - (csc^0 - cos^0)^-1 * cot)
+General rational expression exceeds the degree / complexity limit	1 / 2 * csc + (cos^3 * csc / (3) + tan^-2 / 1 / (sec^2 / sec sec^2 - 1 / csc^3))^2 / (3 * 3 / sin - csc^3) 1 + (3 * cos^-3 + (2 + cot^2 csc * csc^3))
+Denominator is identically zero — no valid angle	(cot * (1 * sec - sec)^-1 3 - cot sec 3)^2
+Denominator is identically zero — no valid angle	(cos^-3)^3 * sin + cot^-2 * 3 cos - cot^-3 ((csc cos^2) * (tan * tan) (cot) - (sin cot) (1 * sin^0))^-1 / tan^-2
+Denominator is identically zero — no valid angle	sec - csc^0 / cot - (csc * 2 * cot - 1 (3) / (cot - cot)^3)^0 / (sin^-3 (csc * tan csc^0) tan^-1) * 2
+Denominator is identically zero — no valid angle	sin^-3 + csc cot^-2 / ((sec - sec)^3)
+Denominator is identically zero — no valid angle	cos^-1 / (sin / tan - cos) + cos^3 + ((csc * cos 3) / sin tan + (csc^-3 / csc^-3)) / sec csc
+General rational expression exceeds the degree / complexity limit	csc^0 * sec (tan^-3 csc cos^3 + 2 sin^2 / (tan + sec^-2)^3)^3 - sin - 2
+Denominator is identically zero — no valid angle	sec^-3 - sin * (tan * (sec cos tan) * 2) (1 (sin - cos^0 / csc) * cot)^-1
+General rational expression exceeds the degree / complexity limit	2 / 1 - (sec)^0 * csc * (csc^-2 * sin^2 + sec * cot^-1 / sin)^3 - cot^-3 * (sec^-1 2 / sin^3 - cot) / (cos^2 * (cot + sin 2 * csc)^3 * sec + sec^3 * sec)
+Denominator is identically zero — no valid angle	(cos / (sin - sin^0 / csc) + csc (sin^-1 * csc + cos)^2) * (cot) sec
+General rational expression exceeds the degree / complexity limit	csc^-2 + (tan cos^3 / sin^-1 + sin cos^3 * tan) ((sin / 3 + sec / csc^0)^-1 + cot^-3 * sec^-2)^3 - (cot^3 (cos * sec)^0) / ((sin^3 * sin)^3) / tan^3
+Denominator is identically zero — no valid angle	(3 / (tan^0 - sec / tan / csc) + 2) + csc * csc^-3 * csc^-1
+General rational expression exceeds the degree / complexity limit	cos^-3 / ((cot + sec^3)^3 / (csc^-3 + cos^-1) tan) + cot * ((cot 1 * cot - csc^-3) - (tan^0 - sin^3 sin^2))^2 - cos * sec^2 / tan
+General rational expression exceeds the degree / complexity limit	tan + (cot / (cot / sec^-2 + cot^-2 * sec^2 cos)^3 / csc + (3 * csc / sin) * (cos * tan - 3 / cot)^2)^3 * sin^-3
+General rational expression exceeds the degree / complexity limit	sin^-3 / (sin^2 / tan^-1 + tan / (csc * csc^3 csc^2 - 3 * sin * cot)^3)^2 - cot^-2 + (tan^-1 2) * tan
+Denominator is identically zero — no valid angle	(tan^3 * 3 + (sec - cot^-2 * cot^-1 * sec) sin) / 2 * cos^3 - csc * (cos 3)^-1 / (3) + (cot / sec * cos^-2 + (csc^-1 * sec - sin * cos cos^-2)^-1 * cot 3)^2 3
+Denominator is identically zero — no valid angle	2 + (2 csc^0 - 2)^-1
+Denominator is identically zero — no valid angle	cos^3 / ((sin^-3 - csc / csc^-1 / sin) * (cos csc + tan * tan)) * 2
+General rational expression exceeds the degree / complexity limit	sin / (tan 2 * (cos - tan^-1 / sec^-1 sin) + (sec^-3 * cot / tan^3)^3) csc
+General rational expression exceeds the degree / complexity limit	cos^2 ((cot tan - cot * 1)^0 sin^-2) sin^-3 - ((sin^3 * sin^0 / cos + csc * 1 / csc)^0 (3 sec / sin - 2 tan) / (cos^3 - tan^-3 tan * csc) + sin^0 * sin^0)^3
+General rational expression exceeds the degree / complexity limit	((sin sin^-1 * cot)^-1) + (sec / (cos^-2 tan + 2 * tan * 3)^3)^3
+General rational expression exceeds the degree / complexity limit	(sin^3 / cot / (cos / sec^3 - tan / 3 sec)) csc + ((cot / cos - cos csc^-1)^3 (csc + cos * csc cos^-2) (csc - sec) - tan (sec^2) cot)^3 tan^0 * cos
+General rational expression exceeds the degree / complexity limit	cot ((cot sec / tan + sin) / cot^3 + cos^-1)^3 / sin^-2 + ((csc cot * csc + 1 * 2 * tan^-3) + cos^-1 sec^-2) 2 - tan^-1 * (csc / cos / (cot tan / 3 + 2 * tan sec^-3)^3) csc
+Denominator is identically zero — no valid angle	((cot - cot)^-1 + cot * cos^-2 / (sec * sin * csc + sin * sin / sin))^0 / (2 / csc^3 + 1) / cot - sin^2 * (csc)
+Denominator is identically zero — no valid angle	(tan / (cot / cos / cot^0 - 1 / sec^0 / 3)^0 (csc / sec^0) - sec)^-1 / sin^-1 sec^-2 + sin^3
+General rational expression exceeds the degree / complexity limit	tan / sin^3 sin + 2 cot^-3 - ((tan / cot^3 - sin^3 cot / sec)^-1)^3 * 3 / cot
+General rational expression exceeds the degree / complexity limit	tan^3 * (tan^-1)^0 sec^3 - (sin^-1 csc^-2 / csc) * ((cos - 3)^2 tan^3) * (cot^3 / (sec + sin / sec^3 / cot^-1)^3 - (3 / 1 - cos^-1 * 1 / tan) / (1)^3) - (sin^-1 - cos^3 / (sec / csc^3)^-1) sin
+General rational expression exceeds the degree / complexity limit	(cos^-2 * csc^2 / (3 / 2 / tan)) ((csc cos csc^-3 + cos csc^-3)^3 * (csc / cos cot) * sin^0)^-1 + ((tan) / sec^-2 / 1 + cot * cot sin^3)^3 / ((sec) + 1 (1 + csc^-2 / csc 1)^2 sec)^-1 * cot^-3
+General rational expression exceeds the degree / complexity limit	(sin + cot / (tan sin^3 - cos cot) * (tan + sec^2 tan))^3 - (2 / cos^2 (tan^-2 csc * 2 + cot 2)^-1 + (tan^-3 cos^0 / 3)) * 1 * (sec * cos cot) + (sin / sin^-2) * (2 / 2 1 - cot 1 / csc)
+Denominator is identically zero — no valid angle	1 cos / (sec - sec)^3 + csc - sin^0 csc^-1 / ((sin * 3 - sec) * tan^3 sin)
+General rational expression exceeds the degree / complexity limit	sec^-1 / ((tan^-1 * csc) * sec / (csc * sin^-1 + sin 1)^2 - cot)^3 * ((1 / sec / cot)^0 * sin / cot)^2 + cos cot
+General rational expression exceeds the degree / complexity limit	((cos * sec) * sec - csc^2 * (cos - tan * csc^-1 sec^3)^2 * sin)^3 / (sec^3 - csc^2 tan^-2 / sin^-2) + sec - sec^-1
+Denominator is identically zero — no valid angle	3 * csc^-1 / cot + ((tan^-3 * cot^-3 - 1)^-1 cos + (cos * csc^3 / tan - sec cos^-2)^2 (csc^0 + 3 / tan^3)^0 * (1 1 / sin^2))^2 2 + csc sec^-1 / csc
+Denominator is identically zero — no valid angle	(1 * tan - tan)^-1 - cot * ((sin / csc^-1 * tan - cot^-3 sin^-2 * tan) / csc 3)^-1 + tan^-3 / cot^0 / csc^2
+General rational expression exceeds the degree / complexity limit	sin^-2 / (tan * 3 (sin^0 * sin + csc)) * tan^-1 - sec * ((2 - cot 1 / sec) / (csc^3 * cot - tan / sin^-2) - cot / cos * sin^-1)^3
+General rational expression exceeds the degree / complexity limit	(sec cot^-1 - sin^-2 tan^0 (sin csc^2 / cos))^3 sin (sec / (csc^-3 + sec * sec)^2 (csc^3 * 1)) - ((1 2) + csc^-3 * (cot csc) / cos^-3) / 2 1 - csc (cos^-2)
+General rational expression exceeds the degree / complexity limit	(cot csc) / (cot^3 / sec^2 + (sin / sin^2 + cos))^3 + (sin - tan^3)^3 / ((cos) 1) + 1
+General rational expression exceeds the degree / complexity limit	((sec * csc^3)^3 * (3 / cot * sec - 3) / sec^-3)^3 - 2 / ((tan * cot - sec^-1) * (cot + sec tan) / tan - tan^2 / tan^-3 * sec)^3 + 3 1 csc^3
+Denominator is identically zero — no valid angle	tan^2 sec^3 csc + cot^3 * ((cos cot * tan^0 - sin * tan^-2)^-1 / cos (3 * cot * cos + cos^3 / csc 1))^-1 + ((csc cos) 2)
+General rational expression exceeds the degree / complexity limit	(csc^2 * tan^-1 * sin^-3 - tan / (sin * csc / csc + 2 * cos^3)^3 / (2 / csc / csc^-2))^3 - (cos^-2 3 - (sin * sec^0 + cos / cot * tan^-2))^-1 / cos + tan cot / 2
+General rational expression exceeds the degree / complexity limit	cos^-1 + (2 / sin - 3 / (cos / sec - cot^-3)^3 * sec^-3)^2
+General rational expression exceeds the degree / complexity limit	((1 - cos sin cos) cot * cos + tan^-1 / tan) * sec^-2 sin + 1 / (2 / cos^-3 + cos / tan^-1 / (sec / cot * sec^-3 - sec))^2 - (tan * (sin tan^3) + cos^-1 cot^-2 * (tan^3 cot^-3)^2)
+General rational expression exceeds the degree / complexity limit	sin^-1 cot^2 - (cos^0 / (2 sin^-3 / sin^-1 - sec cot^-3)^3 + tan^-2 / 2)^-1 (cos * csc (cot^-3 / sec^2) + tan * sec)
+General rational expression exceeds the degree / complexity limit	((cos^-3 sin * cos^2)^-1 * tan^-3) + 2 / (cot^2) / (cos (cot^-2 - cot^2)^-1 * (sin - cos / csc^2)^-1 - sec^-3)^3
+General rational expression exceeds the degree / complexity limit	2 csc^3 (cos / 1 - tan^-2) + (sin * cot^-1) (csc * 2 + (sec^-2 / sin / cot^3) / 1)^-1 ((cos cot + csc^-2 * cos) - (cot^0 / sec^3 csc + sin^2 1)^-1 tan^0 cot^-3)^3
+General rational expression exceeds the degree / complexity limit	(sin * csc^3 + cot^-1)^3 * (sin) * csc^2 + (tan^-1 (sin^3 * tan^2) / (1 / sec)^-1 - 3 cot * (cot / csc / 1 + cot / tan)^-1)^3 - 3
+Denominator is identically zero — no valid angle	((1 / csc^0)^2 + (sec sin) csc / csc^3)^2 cos (csc tan^2) + cot^3 / sin^-3 - ((cot tan - sec / tan / csc)^-1 * cos^0 * csc^-1 - sec * sin * (csc^-3 * csc + 1 cos))^3
+Denominator is identically zero — no valid angle	cot^-2 * cot^0 / ((sec / 3 * csc^-1)^2) - (cot * tan * sin) - sec^3 (cos (cos / cos^-1 * 2)^0 - sec^-1)^-1 1
+Denominator is identically zero — no valid angle	sec^-1 - tan^2 / 1 - csc * (sin^2 * (tan - 1)^0 / (csc - cos * csc / cos)) * (sec^0 tan / csc)^-1
+General rational expression exceeds the degree / complexity limit	(sec^3 / 1) * tan^-2 - cos / (csc * (sin^-3 - tan sin^2 sin)^2 + csc * 2 / 1)^2 * (sec * (cos - cos cot^-1 * csc) * sin + tan) - sin * cos
+General rational expression exceeds the degree / complexity limit	1 + 2 tan^2 * cos + (cos (sec cos^-2) / tan) / (cot * (sin^2 / sin sec - cos sin^3)^3 - sec / cos^-3 / sec^3)^2
+General rational expression exceeds the degree / complexity limit	((csc + tan) cot - cot^-1 / sec) ((sin - sin^-2)^2 (sin) * (sin^-2 sin^-3 cos)^0 - sec^2 * csc)^3 - cos / (cot * (csc / sin + sec / cot^-1 sec) 2) sin
+General rational expression exceeds the degree / complexity limit	((2 sin / sec^3 + sec) (2))^0 csc^3 tan - ((2 - tan * cot^0) sec^0) (sec^0 - (sin + 1) cos)^-1 - ((sin * sec - 2 * cot * sin^-2)^2 cot^-1 + (tan sin - cot csc * cot) / (tan^0 + cot * sin * sec))^3 * 3
+Expression too large for this prototype	csc^-3 / cos^3 * ((cos^-2 2 / csc) sin (sec * csc^-3 sin - sec)^2)^3 - sec + sec^-3
+General rational expression exceeds the degree / complexity limit	(sec^-3 (cot^0 * sin^2 * cot + csc cot^-1 * 1)^3 / 2 - (csc^-1 * cos * cos - cot)^2 * sin^0 * (sec - cos / 1)^2) cos - tan cot^-3 / ((cos^-1 cot^-2 + 3 / cot * csc^-1) (cot^3 sec - sec^-3))^3 + cot
+Denominator is identically zero — no valid angle	csc^-1 * cot^0 * (cot sec^2) - cos / (csc cos^-1 / (cos / cot sin^-1 - csc sin))
+General rational expression exceeds the degree / complexity limit	sec^3 + sec (sec^2) sec^-2 + csc / ((sec tan / tan - 2)^0 * sin^3 / cos - (sec cos sec^3) * cot) ((sec^3 sin)^3)^3
+Expression too large for this prototype	(cot^-3 / (sec) + (tan^-3 * cos^2)^3 / sin^-2)^3 / (2 / sec^3) / (csc^2 * 3 * cos) + tan^2 * cot cot + (cos^0)^2 * cos^2 * sin^2
+General rational expression exceeds the degree / complexity limit	(csc tan * (cot * cos - sec / sec^-1 sec)) * (sin^2 (1 + csc * 1 / cot) / (sec * cot tan - cot) - (cos^0) / 3 (csc * sec + sin^-2 / sec 2))^3 + tan + cot^-1 tan^2 tan^-2
+General rational expression exceeds the degree / complexity limit	csc^-2 - sin^2 / sin cos^2 - sin cos^3 / ((sin csc / 3 + cot cot * cot^2)^3 sec)^2
+General rational expression exceeds the degree / complexity limit	sec^-3 * (cos tan^2 * sin^3)^3 * (csc^-3 - (cot * cos csc^-2 + cot / 1 sec^-3) csc)^2 - (csc 2 - (2 sin) / (cos 1 * cos + sec^-2 * tan^0 * cot)^-1) / (sec) - (cos^-2)^3 (3)
+Expression too large for this prototype	(sec^-3 / sin^-3 - (cos^3 - sin * 2 / csc^3) / tan cot) * 2 3 + (3 * (sec + cos * tan^-2)^3 * (sin^-2 / cot^3)^3 - 3)^3
+General rational expression exceeds the degree / complexity limit	sec / ((cos^3 * tan / 3)^2 sin - cot (csc)^3)^3 - cos
+General rational expression exceeds the degree / complexity limit	tan^-1 + (sec * sin) * 3 - cos / cot^-2 * (1 / tan^-3 / cot + sin^-1 / (tan cos + sin^-2 * tan^3 cos^-3)^3 (cot))
+General rational expression exceeds the degree / complexity limit	csc (sin^3 (cot^-3 * sin tan)^2 sec) / csc^0 - 2 + tan^-2 cot ((sin * sec) / sec * (sec + csc / cos / sec) + csc / 2 / (cos sec * sin^3 - sec^-1 / sec)^2)^3
+Expression too large for this prototype	sec sin / ((tan tan^3 + csc^3 / sin^-3)^3 / sin - (sec / cot^-3))^3
+General rational expression exceeds the degree / complexity limit	cos^-2 csc^-3 - 3 * tan^2 (tan) - tan / (tan (csc * sin^3 * 3 - 3)^3 * sin - cot^-3 tan^-2 / sin) ((sin^-2 * sin + cot^0 sec) * (cos^3 * csc^3 * cot) * 1)^3
+Denominator is identically zero — no valid angle	2 / sec^3 - ((cos^3 / csc + csc * cot) + tan / 1 * (1 * sec^-1 + csc * tan))^3 / (csc^-1 - cos tan)^3 * cot
+General rational expression exceeds the degree / complexity limit	3 sin^0 (1 (cos / csc^-3 cot^0)^0 - tan^3 / (cos tan tan - sin * cot * sin^3)^-1)^3 + cos cot
+Expression too large for this prototype	cos^-2 * (cot * cos / csc + (tan + sin^-2 / tan)) / 1 + tan^0 / ((cot^-1 - sec^-3 cos 1)^3 / sin^0)^3 (csc^-3 + (sin - 3) / cos / tan^-1)^-1 + tan
+General rational expression exceeds the degree / complexity limit	(1 * (sec * sec sin + sec^-2 * cos / csc^-1)) * (tan / cot^-3 - sec / tan^-3 sin) * cot^-2 - cos^0 * ((csc / sin^0 / 1)^3 + (sec^-3 * sec^-1)^3 / (sin * csc^3 + tan / sin)) * ((tan / sec^-1 cos) - sec^2 * 2 / cot)
+Denominator is identically zero — no valid angle	3 / cos^2 (2 sec^2) + (cot^-2 (cos * cot^2 - 2) (cos * sec^3 / csc - sin^-3) + sin^3 * (sec - sec)^-1 / 3)^2 (tan^2 tan * sec^-3 - csc / (cot * cos * csc + tan / csc^-2 / cos^0)) * cot^2 - sec
+General rational expression exceeds the degree / complexity limit	cos^-1 / csc + sin ((cos^-2 * tan / csc^0) - 1 / (sin - tan^-2 tan)) * 3 + ((cot + cot^-1) * (sin / cot^3 - 3 * 3)^3 + csc^-3)^3
+Expression too large for this prototype	sec^0 - (csc^3 * 2 (cos^-1 cot)) * csc^3 + (cot / (sin) sec^2) * (tan + (cot^-3 * tan / 1 - cos^3)^3 * sec (cot csc))^3 (cot^-3 + (2 * cot cot^0 - cos * csc)^3)
+General rational expression exceeds the degree / complexity limit	(csc * 1 * (sin cot / cot - cot cot * sec) - csc / (tan / cos + csc csc^-3))^3 sec + sec^-3 * (csc^0 * cot csc^-3)^2 / 3
+General rational expression exceeds the degree / complexity limit	1 * 3 - (cos^3 / cot)^-1 * ((sec * 3)^2 + (1 * cos / 1)^2 / (3 * cos^-3 * sec + 1 * 3 * cos^-2)^3 / cot^0)^2 + sin 1 / cos
+General rational expression exceeds the degree / complexity limit	sec * cot^-2 / ((tan^2 / sin + sin * sec)^-1 * cos^0) + (1 / sin^3 sec - cos / cot^-2)^2 + tan ((sec^-3 - sin csc^3 * cot^-2) / (2 / cos / cot - 1)^2 + sec sec * tan)^3 / sec^0
+General rational expression exceeds the degree / complexity limit	sec^-2 - 2 / (sin^-2 (tan / sec^0 + 1 / sin sin) - (cos csc^-1 * 1 - csc^2 / sec / csc^2) / (sec cos^2 * cos + cot)^3 / (sin - tan * sin^3 * cos))^2 / cos^-2
+General rational expression exceeds the degree / complexity limit	(1 cos + (sec csc^-1 + sin^3 / csc^3)^-1 * sin^-2 sin^-3)^2 / sec
+General rational expression exceeds the degree / complexity limit	((cot / cot^-2 * csc^-3) cos^2 * (sec - cot))^3 / (cot^-2 * (sin - cos^-3 * cot) * 2) - ((csc / sec^0 + 1 sec^-1) sin^-2 + (3 + csc^3 * cos csc) sin * 2) / 3 / cot^3 - csc
+General rational expression exceeds the degree / complexity limit	cos^2 / (csc (csc^3 * csc^3 + 3 sec / sec^-3) * cot + 2)^3 - cot^-1
+Expression too large for this prototype	1 tan - ((sin)^2 / (3 * 3 * cot^3)^3 + cos^-3 * cos^0 sin)^3 cos / csc^2
+General rational expression exceeds the degree / complexity limit	(3 / (csc^-3 / tan sin + sec^-2 tan) sec^2 + sec^-2 * 1 (cot * cot)^3)^2 * cos^-2 * tan + 3 * csc^3
+General rational expression exceeds the degree / complexity limit	(cos^0 / 3 + tan^3 * tan^-2 / 1) 3 + (2 sin csc - (2 * csc^2)^0)^0 (cot * cot^2 - tan (cos + csc^-2 cos) / (2 sin * cos^-2))^0 / (sec^-3 * sec)^0 - (cos / sec^-1 - (1 * sec sec^2)^2 / (sec * 3 - cot^3 * tan) * cot^-2)^3
+General rational expression exceeds the degree / complexity limit	sec (sec) / ((csc)) - tan sec^2 - (3) / ((sin^-1 * cos^2 * sec^2)^2 1 cos - 3 / (sec^-1 / csc^-3 / cos^3 - 1 / cos * sin^3) / (2 sec sin - sec^-3 * cot))^-1
+Denominator is identically zero — no valid angle	sin^0 + sec * csc + (tan / 3) * tan / (cot - (sin^-1 cos))
+General rational expression exceeds the degree / complexity limit	sec - ((sec 2 - tan sec^-2 * cos^3)^0 * sin^0 / (cos - cot^-2) - 3) - csc^-2 / (sec^3 * csc^-3 - (cos / 2) / (cot^0 / csc * cos + cos^3 / csc / 3)^3 sec^3)^3 / cot^2
+General rational expression exceeds the degree / complexity limit	(cos^-3 csc^0 csc + (cos / csc / sin^-2))^-1 - ((sin^3 cos) - (cos / csc / tan) * sin^-3 * (1 / cos - tan^-2 / csc^-2))^2 / tan^-3 tan - cot^0 3 cos^-1
+General rational expression exceeds the degree / complexity limit	(cos^-2 * 3 sec^3)^3 / cot * ((csc tan / cos - sin / cot / cos^-2) - 3 / (tan / 1 + cot sec^-1 * 3)) - ((sec 1)^3 (tan) - 1 csc^-1) * cos^0 * 3 - sin (tan / sec^3 (tan^3)^3) / ((1 / tan))^2
+Denominator is identically zero — no valid angle	sec (sec^-3 / (cot^3 / 1 / csc^2 - tan^0 * cot / sec^2))^3 + tan
+Denominator is identically zero — no valid angle	(tan^0 / cot / 3 - cos^2 / sin) - (sin^3 (cot * cos) / tan + (cos)^0) / ((sin * cot * csc^-2 + 3) * tan)^0 / (2 - 2)
+Denominator is identically zero — no valid angle	((sec^3 + 3 * csc tan) * sec sec^2 + tan^-1) / (cos^2 * cos^-1 * (sec) - 1)
+General rational expression exceeds the degree / complexity limit	cos / (cos^0 * sec^3 (sec / tan / cos^3 + cos) + (sin csc csc + sin / cos * csc)^2 1)^3 + cos^2 cos^0
+Denominator is identically zero — no valid angle	((cos^3 - sec^-2 * cot / csc^3)^0 * tan^3 sin - 3) + csc^2 * 3 / ((sec^3 + sec^3) * (cos * csc / sin^0 - cot)^2)^-1 - 2
+General rational expression exceeds the degree / complexity limit	sin tan / csc + (tan^-2 + cos^-2 tan)^3 - sec^-3 / tan^-1 ((2 / 2 - sin^2) / (sec sec^3 + cos^3) - sec^-3)
+Denominator is identically zero — no valid angle	((sin * sin tan^-2)^0 * sec^-1 / cos - 1)^-1 / sec - cos / tan - sin
+Denominator is identically zero — no valid angle	cot^-3 / cos^2 / sin + tan / (csc / csc * cos - cos * 1) sin^3 + cos sec^0 ((1 - cos^-1 tan^-3 * sin))^2
+Denominator is identically zero — no valid angle	sec / (csc / csc * cos^3) + cos + ((cot^0 - tan^2 * tan^-2))^-1
+Denominator is identically zero — no valid angle	3 / 3 - cos / (sin^0 - sec / (csc / cot)) * ((tan + cot cot^-2)^2 + sin / tan)
+Denominator is identically zero — no valid angle	sec^2 * sec^2 * 3 - (1 cot^3 tan^-1 - 2 / (sin / cos - tan * csc^0)^3 sec)^-1
+General rational expression exceeds the degree / complexity limit	3 / (tan^3) / ((tan^0)^2 - csc sec^3 / (cot^2 - csc cot^-2 sec^2)^3)
+General rational expression exceeds the degree / complexity limit	(cot^0 / 2 - tan / (sec csc / cot) (cos * 3 * cot + sin)^0)^3 - cos^-3 / (csc^-2 / sec + (3 / sin^-1)) * (3 * (csc csc / tan - tan) csc^3 - 3 * 3 cos^-2)^2 - csc^-1 / cos
+General rational expression exceeds the degree / complexity limit	(tan^-3 * csc + cos 1 (tan^2 / csc^-3 sec - sec / tan^-2 * sin^2)^-1) / 2 cos^-2 + (cot + csc * (2 * tan * cot - sin csc * cot)^-1 / csc)^0 ((sin / 1 + csc^2 * cot^2))^-1 + sin^-3 / sec * ((cot 2 / tan^0 - csc sec)^2 sec^0 / tan - tan^3 * (tan / sin / csc^-3)^2 * tan^0)^3
+Denominator is identically zero — no valid angle	(cos) / ((cos) * tan^0) / sec + sin * cos^-2 / (3 * tan / (sec * 1 - sec))
+Expression too large for this prototype	tan^0 - ((sec cot^3 / sec^-2 - 3)^2 sin * sin^3)^3 (2 * (1 / csc^-1 - cot 3 * 1) * (sin * cot cos - csc / csc^0) - 1)^3 + sec * sin
+General rational expression exceeds the degree / complexity limit	sec^3 tan * (csc^3 * sec^-3 / sin + (sin^-2)^3 tan)^3 - ((sin - csc / cos))^-1 / 3 * 3 + cot * (sec^-2 * csc^0) tan
+General rational expression exceeds the degree / complexity limit	(csc * tan^0 / (cot^-2 sec + 1 csc^-2))^3 / (1 * cos sec)^-1 / sin + sec^3 * sec / (3 3 - sin)^3
+General rational expression exceeds the degree / complexity limit	sin^-1 * ((csc^-2 / cos^-3 - csc sin^0) - (1 / cot / cot) * cos^0)^3 - 3 / (cot^0 * (csc tan^-3 * tan^-2 - csc / sec^0) - tan) * (cot / (tan * sin^-1 + cot / csc * sec) * csc^-1)
+General rational expression exceeds the degree / complexity limit	sec cot 2 + cos^-3 - cot^-2 / (cot * (sin^2 * sin + csc * sin^-2)^3 + (cot cot / cos) (tan^3 * 2 * 3)^2)
+General rational expression exceeds the degree / complexity limit	tan^2 * (csc^-2 (tan - cos cos sin)^2)^3 / (tan (sin / tan / csc) sec - sec^2 / sec^0) - csc^0 * sin^-3 + (cos)^2 sec
+Expression too large for this prototype	(2 * cos^2 - cos * (1 * tan / 3) * (sec^0 / cot^-1 cos^-3 + cot^3 sec sec)) - ((tan^-3 / cot^2 / sec + cot^3 cot)^3 * (sec^2 cot sin^-1 - 3 / csc / sin^-1) - cos^0)^3 / cos - sec sin
+Expression too long	((sec^-1 cot^2 * sec + cos * 1) / (tan * 3 * sin^2) (tan - sin^2 1)^3 - sin (2 sec^-1 + sin / tan * sec) / sin) / (sin (tan - sec^-1 sec) * sec + csc^-2)^0 ((cot * sin^3 sin^0) sin^3 / sin^3) + (2 (csc cos / csc) cos^-2 + (sec)^-1 sin^-1 * csc) + (sin^3 / (csc + csc) tan^-2 + csc (csc * sin^0 tan) * sin) 3
+General rational expression exceeds the degree / complexity limit	cot^-1 sin^-1 ((cot * sin^0 / cot^-3 - tan * tan / 2)^2 / (cos * sec csc^-1 - 3 sin))^-1 + ((cot) / cot^-3 * cot^0 + (3 / sin * tan^3)^3 / (sin^3) 2) * cos^-2 * (tan^2 cot^0 sec + tan sin^2) + (csc^0 + csc^0 / cos / tan^-2) / ((3 / sin) csc^0 - 1) / tan
+General rational expression exceeds the degree / complexity limit	sin - cos / (sin * sec^2 / sin + cot^-1 (cos / cot - csc * csc * tan)) * (cos^-3 3 - sec 3) - ((csc csc tan^3) / (cos^3 + tan^2 / sin^0 tan^-1)^-1 + csc^-3)^3 * (cos * cot^2 / csc^2 - 3 csc^2 * cos^-3)
+General rational expression exceeds the degree / complexity limit	csc / 2 / tan - tan * (csc / (csc^3 / sin^0 cos^0 + 1 cos) - 3 * sec^3 / csc^-3)^3 + tan cot^-3
+General rational expression exceeds the degree / complexity limit	tan * cos (2 tan^-2 tan^-1 + csc)^-1 - ((cot^0) * 2 * (3 - csc^-3 * tan / 2)^0 - sin / sec^0) / ((cos sec^2 * sec - cot^-1 * cos^2 / sec) + (csc)) / (tan - (sin / cot^-2 + cot cot * cot)^3)^3 - sin (sec / sin^-1 - (cot^-1) tan * (3 / csc / tan^-1 + cot / cos / tan)^2)
+Denominator is identically zero — no valid angle	((cot / csc - sin cot^-1 / sin) / sin + 2 * sin) tan^0 + ((sin / sec - cos / csc)^3 sec^-2 * 3)^-1 / 1
+General rational expression exceeds the degree / complexity limit	(tan^3 / sec^2 2 - (2 / csc)^0) - (csc / sec / (csc sec + cos / 1 3)^3 - cos^2 / (cos / sin) (csc + csc))^3 * sin^3 * (3 + (csc) cot)^3
+General rational expression exceeds the degree / complexity limit	(csc * (3 + 3 tan^-3 / 1)) - 1 * cos^-2 / sec^-1 - (tan^-2 / (cot cos^-3 * tan^2 - tan / tan)^2)^3 / cos
+General rational expression exceeds the degree / complexity limit	(sin^-3 + tan^3 * (cos / csc^-3 / cot^-1 - csc tan)^-1)^3 + cot^-1 tan / csc^2
+General rational expression exceeds the degree / complexity limit	((tan / cot + cos^2 * sin) (1 * cot + 3 2 cot^3) - cot / (cos^-3 - tan) * csc)^3 * tan^-3
+General rational expression exceeds the degree / complexity limit	(sin * (sin * sec cot)^0 / (3 / csc^-3 / cot - csc^-1 / cot^3)^3)^2 2 / sin + cos^-2 * csc^-2
+General rational expression exceeds the degree / complexity limit	(sin^3 / (sec * csc^3 * cos^-1 - sin cos * tan) + (1 - cot / tan / csc^-2) * csc)^-1 / (1 * sin - (sec / cot sin^-2 + csc sec^-1 sin^-2) * cot^-1 * 3) - 1 ((sec sin * csc) (sec * cot cos + csc * 1)) / sin - 2 * ((3)^2 * tan * (cot^0))
+Denominator is identically zero — no valid angle	(csc * sin / (sec^2 cos - 1 * sec) + 2) / sin
+General rational expression exceeds the degree / complexity limit	((sin / cos^-3 tan^-3 + cos^-3 sin^-3 / cos^-1)^-1 - tan)^2 csc^3 + sin (2 / cos^3 * cot^0 + (sin 1 / sec + tan^0 / csc / sin^0)^-1 csc^0)^2
+General rational expression exceeds the degree / complexity limit	tan^3 / ((cos * cos / 3)^3 - sin)^3 + sin^-2 - cos^0 * cot^2 / sin^-3
+General rational expression exceeds the degree / complexity limit	((3 / cot) * sin^0 sin^3) ((sec^3 * csc^0 + tan) tan + (cos)) - (csc - (sec * cot^3 sec^-3 + tan / tan * sec)^3)^-1 / (cot / (1 / csc + sec^0)^3 / csc^0 + cot^-2)^2 * 1
+General rational expression exceeds the degree / complexity limit	3 ((tan^-2 * sin^-1 sin^2 - sec / cot)^3 * tan - (sec + tan cot^-1 * cot) / (sec / sin - 2 / csc^-1 tan))^2 * csc
+General rational expression exceeds the degree / complexity limit	cot * 3 + 3 / (sec^-2 - 1 * csc^-3) - (tan * tan * sin^-2 + csc * (sin sin sin + sec^2 * cot tan)^2)^3 / 1
+General rational expression exceeds the degree / complexity limit	((sec) * sec cot^-2 - (csc^-1 + tan * sin^3 tan) / csc^3 * (cos^2 * sec^2 3)^0) sec + 1 cos + ((cot * cot^-3 3 - tan^-2 / csc)^3 + (2 / sin^-3 + sin^-3 / tan^0 csc)^-1 csc^0)^3 / ((csc 1)^0 - 1) sin^-3
+General rational expression exceeds the degree / complexity limit	(1 / (3 * sec - cot / cot^-1)^3 + cos)^3 * ((cot cos^2 * 3)^2 / 1) sec + cos + sec^-2
+Denominator is identically zero — no valid angle	csc^3 / cot (sec sin^3 + tan^0 * tan^3) + cot^0 cot^0 sin^2 - (sec * (cos - cos))^-1 * tan * (sec * 2 sin^-3)
+General rational expression exceeds the degree / complexity limit	((3 + sin / sec^0 / csc^-2)^-1 / csc / sin^-1 + (csc * 1 - cot^3) / (sin * tan / cos + cot^-1 * sin * 1)^0 * sin^-3)^3 tan^2 * 3 - 1 * 3 csc + 2
+General rational expression exceeds the degree / complexity limit	cos (tan^-3 / sin) + sin (cos^-2 cot^-2 / (cos^2 + sec^-3 cot))^3
+General rational expression exceeds the degree / complexity limit	(sin^0 * (cos cot * sin - csc)^2 * csc^-2 - tan 2 cot^2)^-1 (1 / (cos^-2 csc^2 + cot cot)^2 * 3 - cot (cot / sin^-1 + csc^0 / cot tan)^2) (csc - csc^0 cot cot^-3)^3 + 3 * csc + 3
+General rational expression exceeds the degree / complexity limit	tan^-1 csc^-2 / (csc^3 / tan * tan^-3 - tan / csc^0)^3
+Denominator is identically zero — no valid angle	((tan * cot^-3 * cos - cos cot / tan^3) - cot / cos) * ((cos * tan cos - cot / sec / csc)^3 + sin * sin * (sin)) (csc - csc / (sin)^0)^-1 + cot + csc^2
+Denominator is identically zero — no valid angle	sin - (cos^-2 - sec^-1 * cos^-3)^-1 / tan
+General rational expression exceeds the degree / complexity limit	cos^0 / ((tan^-3)^3)^3 - sec + (sec + 1)^-1 * 3 * (tan^-3)
+Denominator is identically zero — no valid angle	(sec) + 1 ((tan^2) 3) / (cos^0 / csc + sin / (sin - sin) / 1)
+General rational expression exceeds the degree / complexity limit	cot^2 - sin^2 / cot^2 - ((3 * 3 / tan + sec)^2 / (tan * sec^3 * sec)^3 - cos^2) / (sec^-2 + (cot^-1 - cot / sin^-3)^3 / (cot * cos^0 2 - cot^2) (sec / csc - cot / tan)^2)
+Expression too long	cos^3 (2 - (cos^0 2) / (tan^0 - tan * tan^0) * sec) * (sec^0 * (cot tan^-1 / 1)^2 / (cos / sec^2 2 + sec * sec^3 / tan) - tan^-2 / 3 sec) + ((tan * cot + tan^0) * csc - (cos * tan^-1))^0 * (sec / (tan) + (cos / cos) / (1 / cot)^0) * ((cot * cot - sec)^-1 - (cos * sec * sin^3 + cos * cos^3) / (cos / cot^3) / 2) + ((cos))
+Denominator is identically zero — no valid angle	(3 / tan + (cot^3 - cos^2 / tan * tan)^3)^0 * cot * tan^3 + tan^-3 / sin - (tan cos (tan * csc sec + cot tan * sin) + (tan / sin * csc + sin) / (sin^0 - sin^0 / cos^0 / tan^0) / tan^2) / tan^0 * (sin)
+Denominator is identically zero — no valid angle	csc / 2 / cos - (csc sec^0 / (sec * csc / cot - sec^2) + sin^-1 / 1) 3 / sin - cos^0 * tan^2 tan
+Denominator is identically zero — no valid angle	(1 / csc^2 + sin / 3 / (csc - csc)) - sec / (tan csc) / (csc^-1)
+Denominator is identically zero — no valid angle	3 / (cos / tan^-3 + cos)^2 * cos + (tan^2 * 3 - (tan sec^-3 - cot * 2)^2 * 1) / ((sin^-2 / sec - csc^2 * cos)) - cot^3 csc^-3 cos^-1
+General rational expression exceeds the degree / complexity limit	sec^-1 / (csc - tan^2 / (1 / cot^2)^-1 / (1 cot^3 sin + sin sin^0 sec)^2)^3 * (cos sec^2 + cot) - tan^0 / cos
+General rational expression exceeds the degree / complexity limit	sin * (csc^0 / (sin sec^3 - csc * csc)^3 - tan / sin * (sin + sin / sec))^3
+General rational expression exceeds the degree / complexity limit	csc^-2 / (sec cot^0) / (1 (tan * 1 * csc + csc^2 * sin) - tan / (csc^-1 / cot^-2 - tan^2)^3)^3 - ((cot^-1) cos / csc + csc^0 / sec) / sin^-3 + (2)^2
+Denominator is identically zero — no valid angle	(tan^0 - 1)^-1 + (csc^3 - 2 sec^-3)
+Denominator is identically zero — no valid angle	(tan^-3 + tan^-2 cos / (tan sec^0 - tan)) + 2
+General rational expression exceeds the degree / complexity limit	sec^2 + (sin / (sin^-1 * 3 - tan^-3 sin^3)^3 * cos)^3 3 + cos * (csc^0 / (sin^-2 * tan * cot^-2 - csc^2 cos * sec)^3)
+General rational expression exceeds the degree / complexity limit	((sec / cot^3 cot)^3 * 2 / cos) - (cot / (sec 1 + cos^2 cot) - tan) (sin^-1 * (2 - sin^3 / sin) * (tan - sec^0 / csc^2 * cos^3) - (2 * cot)) + ((2 / cos^-1 / 1 + 1 * sec^-1 * cot) * sin^-2 + csc^0) 2 * ((tan / cos - sin * 2 / tan) sin^2 * sin)^-1
+Denominator is identically zero — no valid angle	tan^0 - 1 / (sin^0 (tan tan - tan)^0 - 1) / (cot * cos)^0
+Denominator is identically zero — no valid angle	(cot / (3 - 3 tan^0)^-1)^-1 * ((tan^-2) * tan^0 - tan^-1 / cot * cos^-2) * cos^2 + sin^-1
+General rational expression exceeds the degree / complexity limit	((sec^2 - cot^2 * cos / csc^-1) / sec^-3 / (1 tan^-2 / sec + cot / sin^3 sec^-1) - (sec^-1 cos^3 / cot^-1 - tan^3)^3)^-1 + tan^-1 - ((cos * tan * csc + cos) / sin^0 + sin)
+Expression too large for this prototype	cot^0 / sec^0 / ((csc cot^3 / csc^-3 - sin)^3)^3 - sin / cot^-3
+General rational expression exceeds the degree / complexity limit	((cos - 3 * sin) + tan)^-1 / sin csc + (cot + (cot^-3 csc^-2 cos)^2 * cos * csc^2)^3 / tan^3
+Expression too large for this prototype	(tan^-1 * (cos - cot / tan / tan)^3 * cot)^3 + tan / (tan^-2 * cot * 3 + sec^2) + sin / 2
+General rational expression exceeds the degree / complexity limit	cos^0 * cos^-2 * sin^-3 + 3 - ((cos^3)^3 / (cos * sin^2 - 1 * tan / tan^-3))^3 / ((cot tan + cot^3 * 3 cos))^3 * sin^0
+Denominator is identically zero — no valid angle	((3 + csc) * 2 / cos + cos sin^3 / (csc 1 cos - cot sin csc))^2 / tan^2 sec + sec
+General rational expression exceeds the degree / complexity limit	((2 * sec^3 + sec^3) * (1 - cot^2)^3 / (cot / cot - sin)^-1)^3 / csc + (csc^-1 (3 + cot^0 cos^-3) / csc^0) tan (2 * tan^0)^3 - cot * cot
+General rational expression exceeds the degree / complexity limit	(sec)^0 / (1 / cos^-2 / cos^-3) * (3 / 3 + cos^-3 * tan^0)^3 - (csc^3 3 sin)^0 (sin / csc * cos - tan^3 * (csc * cos^-1 - cos) / (sin * sin^-3 + cos csc sin))^-1 + 1 / (sec^-2 * cot - (csc^0 * sec^-1 * cos) (cos / cos / tan^3))
+General rational expression exceeds the degree / complexity limit	tan (csc^0) / (cot^2 / (cot^-2 / 3 * 3)^3 + sec / cot * 1)^3 + (2 * cos 2 - cot^3)^-1 - 2 / tan^-1 (cot^-2 * 2 / (cos sin sec))
+Denominator is identically zero — no valid angle	tan - cot^3 sec^2 / (1 - sin^0)
+Denominator is identically zero — no valid angle	(cos^-3 * cot / (sec * tan * cos + cot^-3 * sec)) * sec^-1 - (cos^-1 - (csc^2 * 1 / csc^3) / sin^-2 / (sin + cos^0 / 1 * csc))^-1 / ((cot^0)^2 sin / 1)^3 * ((cot) - csc / sec)^-1
+General rational expression exceeds the degree / complexity limit	sin / ((sin^0 + cos^-1 csc * csc) / sec * cot - sec)^2 * (csc)^2 + (cos^-1 sin^-3 tan^-2 + cos / (sin^-3))^3 / tan^3
+General rational expression exceeds the degree / complexity limit	(sec / (csc^3 cot * cot) csc - (sin * cos^-2 - tan^-2 * csc 1)^-1 * (sec / sin / csc^2)^0)^3 ((tan^-2 + tan^0 * 3) + tan)
+Denominator is identically zero — no valid angle	((sec * cos) * (csc * sin - 2 / 2)^-1 / sin)^3 (cot^-1) / cos + csc 1 / tan - (sec 2 (tan csc * cot - sin^-3 2)^-1 + cos cos^0)^-1 2
+General rational expression exceeds the degree / complexity limit	sec^-2 * (tan^-2 * sin * (2 csc^0 * csc + sin^0 csc)^2 + (cot^2 * csc / sec + 3)^2) / (csc / (tan^0 + cos^-3 / cos tan) / sec^3)^3 + (sec^3 / sin / (tan) + 1 cos / (csc^-2 - csc / tan / 1)) * 2 * (cos + csc / tan^3 cot)^2
+Denominator is identically zero — no valid angle	2 * (tan^-2 / (tan + tan / sin^0 sec)) / ((cot * cot^3 * sec - csc cot^3)) - sin * tan / csc^-2 + cot^-3 / 2
+General rational expression exceeds the degree / complexity limit	(tan^-1 + cos) / sec^-1 - tan^3 + ((sec^-1 * tan^3) tan + (cos csc * tan - 3) / (cos / sec / sin^-3 - tan * tan^-3 cot^2) / (csc^-2 / cos)^3)^3 / cot
+General rational expression exceeds the degree / complexity limit	sec sin - (csc^-1 * 2 + sec^-2 (sec * tan)^-1 * cot) / ((3 / cot)^0 - (cot * csc^-3 * sec - tan^-3 / tan / tan^-1)^3 (csc) * (csc^-1 * csc^2 / sin + tan)^0)^2 + (csc cos^2 csc - sin)^-1
+General rational expression exceeds the degree / complexity limit	(2) / 3 * cos - cot * (cos + cot 3) / (csc * (tan) (cot^-3) - (cos^2 * cot * sin^-3)^2 * sec (2 * cot))^3
+Denominator is identically zero — no valid angle	cot^3 / ((sec) - (sec * 1 * sin^0)) * tan^0
+General rational expression exceeds the degree / complexity limit	csc^-3 + 3 / 3 + csc / ((sec^3 / sin - sec)^3 - csc)^2 (cot sec^-3 * 3)^2
+General rational expression exceeds the degree / complexity limit	(3 * sec - (1 sin sec + csc * cot^2 2)^3 / (cos) * cot)^-1 + (1 * cot^-2 / (sin * csc * cos^-3 - cos sin)^3 + (cos - csc * cot cos^3)^-1 / cot^-2 * (cot^3 / sec cot^3 - sin * cot^-3)^-1) csc / csc^0 + sin^-2
+General rational expression exceeds the degree / complexity limit	cot / (csc^3 / 2 - 3 * sec cos^-1) / sec - cos * (sin^-1 * (cos / 3 / 3 + sin^3 1) + sin) / sin - (sin^3 2 * (cos / cot) - (csc^-3)^3 / cos)^3 * cos^2 (2 * 2 * sin^3)
+General rational expression exceeds the degree / complexity limit	cos^-1 / (tan^3 * 2 tan^3 + (tan * csc / 1 - csc^2 * cot / 1))^3 (sin - csc^0 (sec / 1 / sin^3 - cos) 1)
+Denominator is identically zero — no valid angle	sec / tan^2 ((cos^-1 + tan / sec^-3) tan^-1 / csc) - cot^3 / sin^2 + (cot) / 2 / (cos / 1 sec - 1 * 1)
+General rational expression exceeds the degree / complexity limit	1 / cos^0 * csc^2 - 1 * ((sec^0 - sin^-2 / cos) / (sin cos^2 + csc tan) + (cos^2 sec^-3) tan^-1)^3 * 2 - ((cot * tan^0 + cot) + csc * sec)
+General rational expression exceeds the degree / complexity limit	cot^2 / 2 / (cot / sin^2 + (2 / tan^-3 * sin) / 2 * cos^2)^3 + (csc^-3 / (sec + 1) cot^-2)^3 ((tan tan) - csc^-1)^2 sec^0
+Denominator is identically zero — no valid angle	sin / (tan * (tan / sec * sec - tan)) / cos^3 - 3 * cot^-2 2 - (tan^-2 + (tan^-3) 1 (csc cot))^3
+Denominator is identically zero — no valid angle	1 * tan - (cot sec^-1 / (csc - csc)) / ((cos / sec^3 - sec))^3 * tan - (tan^3 / 1) * sec^-3
+Denominator is identically zero — no valid angle	((sin * 1 cot^0 - sec) (cot^-3 / csc)) / ((1 csc / csc - csc sin)^3 / cos)
+Denominator is identically zero — no valid angle	cot^-3 * (sin^0 / sin / (sec^0 - 1))^0
+Expression too large for this prototype	sin + cot^-2 ((cos - cos^-3)^3 / cot^2)^3 / (csc + cot^-2)

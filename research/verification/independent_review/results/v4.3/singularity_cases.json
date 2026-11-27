@@ -1,0 +1,212 @@
+{
+ "app": "Trig_Atlas_v4_3_Rational.html",
+ "fileSha256": "8f0f2a3eaf1c5967ef6123e6008b734f4be575e78b17dfa3ecfd88c12d5c6fa9",
+ "engineSha256": "d15f5bf58984ca843d35501540e2b9afd796f6de4248d46cd68129da43a3b340",
+ "cases": 21,
+ "failures": [],
+ "rows": [
+  {
+   "e": "sin sec cot",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": [
+    "0° hole limit 1",
+    "90° hole limit 1",
+    "180° hole limit 1",
+    "270° hole limit 1"
+   ]
+  },
+  {
+   "e": "sin^2 + cos^2",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": []
+  },
+  {
+   "e": "sec^2 - tan^2",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": [
+    "90° hole limit 1",
+    "270° hole limit 1"
+   ]
+  },
+  {
+   "e": "cos / sin^-1",
+   "status": "pass",
+   "path": "laurent",
+   "display": "sin · cos",
+   "exclusions": [
+    "0° hole limit 0",
+    "180° hole limit 0"
+   ]
+  },
+  {
+   "e": "1/tan",
+   "status": "pass",
+   "path": "laurent",
+   "display": "cot",
+   "exclusions": [
+    "0° pole order 1",
+    "90° hole limit 0",
+    "180° pole order 1",
+    "270° hole limit 0"
+   ]
+  },
+  {
+   "e": "(1-cos)/sin^2",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1 / (1 + cos)",
+   "exclusions": [
+    "0° hole limit 0.5",
+    "180° pole order 2"
+   ]
+  },
+  {
+   "e": "(1-sin)^4/cos^8",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1 / (1 + sin)⁴",
+   "exclusions": [
+    "90° hole limit 0.0625",
+    "270° pole order 8"
+   ]
+  },
+  {
+   "e": "tan * cos",
+   "status": "pass",
+   "path": "laurent",
+   "display": "sin",
+   "exclusions": [
+    "90° hole limit 1",
+    "270° hole limit -1"
+   ]
+  },
+  {
+   "e": "sin^2 * csc^3",
+   "status": "pass",
+   "path": "laurent",
+   "display": "csc",
+   "exclusions": [
+    "0° pole order 1",
+    "180° pole order 1"
+   ]
+  },
+  {
+   "e": "cot * sin",
+   "status": "pass",
+   "path": "laurent",
+   "display": "cos",
+   "exclusions": [
+    "0° hole limit 1",
+    "180° hole limit -1"
+   ]
+  },
+  {
+   "e": "tan^0",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": [
+    "90° hole limit 1",
+    "270° hole limit 1"
+   ]
+  },
+  {
+   "e": "sin^0",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1",
+   "exclusions": []
+  },
+  {
+   "e": "(1 - cos)^3 / sin^6",
+   "status": "pass",
+   "path": "laurent",
+   "display": "1 / (1 + cos)³",
+   "exclusions": [
+    "0° hole limit 0.125",
+    "180° pole order 6"
+   ]
+  },
+  {
+   "e": "csc - cot",
+   "status": "pass",
+   "path": "laurent",
+   "display": "(1 − cos) / sin",
+   "exclusions": [
+    "0° hole limit 0",
+    "180° pole order 1"
+   ]
+  },
+  {
+   "e": "1/(sin^2+cos^2)",
+   "status": "pass",
+   "path": "general",
+   "display": "1",
+   "exclusions": []
+  },
+  {
+   "e": "sin/(1+cos)",
+   "status": "pass",
+   "path": "general",
+   "display": "sin/(1+cos)",
+   "exclusions": [
+    "180° pole order 1"
+   ]
+  },
+  {
+   "e": "(sin-cos)/(sin-cos)",
+   "status": "pass",
+   "path": "general",
+   "display": "1",
+   "exclusions": [
+    "45° hole limit 1",
+    "225° hole limit 1"
+   ]
+  },
+  {
+   "e": "1/(2*sin-1)",
+   "status": "pass",
+   "path": "general",
+   "display": "1/(2*sin-1)",
+   "exclusions": [
+    "30° pole order 1",
+    "150° pole order 1"
+   ]
+  },
+  {
+   "e": "(1+cos)/(1-cos)",
+   "status": "pass",
+   "path": "general",
+   "display": "(1+cos)/(1-cos)",
+   "exclusions": [
+    "0° pole order 2"
+   ]
+  },
+  {
+   "e": "1/(sin+cos)^2",
+   "status": "pass",
+   "path": "general",
+   "display": "1/(sin+cos)^2",
+   "exclusions": [
+    "135° pole order 2",
+    "315° pole order 2"
+   ]
+  },
+  {
+   "e": "(sin^2-cos^2)/(sin-cos)",
+   "status": "pass",
+   "path": "general",
+   "display": "sin + cos",
+   "exclusions": [
+    "45° hole limit 1.4142135623730951",
+    "225° hole limit -1.4142135623730954"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "expression": "sec 3 + (2 / 3 / (csc) + sin sec * 2) + ((tan * 3 * sec^-1 - cos 2 / sin)^3 * 2 * tan - csc * tan^2)^3 (cot^-3 csc + cot / csc^3)^3 * csc^-3",
+ "degrees": 313.9,
+ "mp60": "-7.607759817325204123185616",
+ "app_scaled_error": 2.832413139148591e-11,
+ "double_reference_scaled_error": 1.1732773120320156e-14
+}
+exit 0

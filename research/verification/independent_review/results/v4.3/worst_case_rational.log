@@ -1,0 +1,8 @@
+{
+ "expression": "tan (2 * 3 / (cot / sec - csc)) / 3",
+ "degrees": 0.551,
+ "mp60": "-2.000092485717127312814179",
+ "app_scaled_error": 3.784689598052332e-17,
+ "double_reference_scaled_error": 1.0020031178920761e-12
+}
+exit 0

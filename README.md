@@ -4,7 +4,7 @@ An interactive three-dimensional approach to trigonometric identities, symbolic 
 
 ## Run the calculator
 
-Download [Trig Atlas V4.3 — General rational denominators](Trig_Atlas_v4_3_Rational.html) and open it in a modern browser. The standalone HTML contains all code and styling; it does not need a build step, server, or internet connection.
+Download [Trig Atlas V4.3.1](Trig_Atlas_v4_3_1_Presentation.html) and open it in a modern browser. The standalone HTML contains all code and styling; it does not need a build step, server, or internet connection.
 
 - **Eye Calculator:** construct expressions by selecting vertices, edges, faces and projected crossings; inspect simplification, domain exclusions, holes, poles and graphs.
 - **Identity Atlas:** explore reciprocal axes, product identities, Pythagorean relations and the eight triangular faces.
@@ -25,7 +25,9 @@ Download [Trig Atlas V4.3 — General rational denominators](Trig_Atlas_v4_3_Rat
 | [V4 — Eye Calculator](archive/v4/Trig_Atlas_v4_Eye_Calculator.html) | Integrated expression builder and guided exploration |
 | [V4.1 — Reliability](Trig_Atlas_v4_1_Reliability.html) | Preserved reliability baseline |
 | [V4.2 — Readability](Trig_Atlas_v4_2_Readability.html) | Preserved verified factored-display baseline |
-| [V4.3 — General rational denominators](Trig_Atlas_v4_3_Rational.html) | Latest version: exact rational charts, original-domain root isolation and non-cardinal holes/poles |
+| [V4.3 — General rational denominators](Trig_Atlas_v4_3_Rational.html) | Preserved engine baseline: exact rational charts, original-domain root isolation and non-cardinal holes/poles |
+| [V4.3.1 — Presentation](Trig_Atlas_v4_3_1_Presentation.html) | Latest version: V4.3 engine unchanged; general-expression answers are typeset (for example `1 / (2 · sin − 1)`) |
+| [Independent review tests](research/verification/independent_review/README.md) | Separately written fuzz, singularity, high-precision, display round-trip and browser tests, with archived results for V4.1, V4.3 and V4.3.1 |
 
 The archived HTML files retain their original contents. Their Git upload dates are archival dates rather than a reconstruction of the original development chronology.
 
@@ -33,10 +35,10 @@ The archived HTML files retain their original contents. Their Git upload dates a
 
 The underlying trigonometry and much of the geometry are established mathematics. The octahedral interface, its integration with symbolic computation, and potential educational benefits are the focus of this exploration. The research paper includes numerical simulations and a limited benchmark, not a general-purpose CAS speed claim or a peer-reviewed result. Linked-module computation and optical sensing remain research directions, not demonstrated hardware.
 
-V4.1 uses exact rational symbolic operations and local tangent-half-angle charts for improved numerical stability near excluded angles. V4.3 adds bounded general rational denominators and exact root isolation for original exclusions, while preserving the earlier Laurent fast path. The grammar is specialized to one angle and is not a general-purpose CAS. Recorded tests and their original source scripts are in the [research folder](research/README.md); they do not prove universal numerical accuracy.
+V4.1 uses exact rational symbolic operations and local tangent-half-angle charts for improved numerical stability near excluded angles. V4.3 adds bounded general rational denominators and exact root isolation for original exclusions, while preserving the earlier Laurent fast path. V4.3.1 changes only how general-expression answers are displayed; its symbolic engine is byte-for-byte identical to V4.3. The grammar is specialized to one angle and is not a general-purpose CAS. Recorded tests and their original source scripts are in the [research folder](research/README.md); they do not prove universal numerical accuracy.
 
 ## Contributing
 
-Start with the AI handover and use V4.1 and V4.2 as preserved regression baselines, and V4.3 as the latest working release. Preserve the original domain, geometry, and offline operation when changing the calculator. Record tests, limitations and version changes, and distinguish exact mathematical claims from simulations and proposals.
+Start with the AI handover. Use V4.1, V4.2 and V4.3 as preserved regression baselines, and V4.3.1 as the latest working release. The [independent review suite](research/verification/independent_review/README.md) can be rerun on V4.1 and later; its general-rational and display checks need V4.3 and V4.3.1 respectively. Preserve the original domain, geometry, and offline operation when changing the calculator. Record tests, limitations and version changes, and distinguish exact mathematical claims from simulations and proposals.
 
 See [LICENSE](LICENSE) for the repository license.

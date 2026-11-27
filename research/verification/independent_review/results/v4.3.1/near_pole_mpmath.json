@@ -1,0 +1,70 @@
+{
+ "app": "Trig_Atlas_v4_3_1_Presentation.html",
+ "rows": [
+  {
+   "expression": "(1-sin)^4 / cos^8",
+   "degrees": 89.99,
+   "app": 0.0625000019038589,
+   "mpmath50": "0.062500001903858905083",
+   "relative_error": 1.9528240725723014e-17,
+   "naive_double": 0.06250000103637823
+  },
+  {
+   "expression": "(1-sin)^4 / cos^8",
+   "degrees": 89.999,
+   "app": 0.06250000001903859,
+   "mpmath50": "0.06250000001903858874",
+   "relative_error": 2.254164750622984e-17,
+   "naive_double": 0.06250001856853964
+  },
+  {
+   "expression": "(1-sin)^4 / cos^8",
+   "degrees": 89.999999,
+   "app": 0.06250000000000001,
+   "mpmath50": "0.062500000000000019039",
+   "relative_error": 8.257281332350721e-17,
+   "naive_double": 0.017645013573704828
+  },
+  {
+   "expression": "(1-sin)^4 / cos^8",
+   "degrees": 270.0001,
+   "app": 1.858236741510652e+47,
+   "mpmath50": "1.8582367415106509714e+47",
+   "relative_error": 4.84639690488583e-16,
+   "naive_double": 1.8582367410845452e+47
+  },
+  {
+   "expression": "(1 - cos)^3 / sin^6",
+   "degrees": 0.001,
+   "app": 0.12500000002855788,
+   "mpmath50": "0.12500000002855788311",
+   "relative_error": 3.859403461601764e-17,
+   "naive_double": 0.12500002785348455
+  },
+  {
+   "expression": "(1 - cos)^3 / sin^6",
+   "degrees": 1e-06,
+   "app": 0.12500000000000003,
+   "mpmath50": "0.12500000000000002856",
+   "relative_error": 6.4184599150001485e-18,
+   "naive_double": 0.04841350036462323
+  },
+  {
+   "expression": "(sec - 1)/tan",
+   "degrees": 0.001,
+   "app": 8.726646260193173e-06,
+   "mpmath50": "8.7266462601931721052e-6",
+   "relative_error": 7.409053510755794e-17,
+   "naive_double": 8.726653267488789e-06
+  },
+  {
+   "expression": "(sec - 1)/tan",
+   "degrees": 1e-09,
+   "app": 8.726646259971647e-12,
+   "mpmath50": "8.7266462599716484281e-12",
+   "relative_error": 1.205796063715724e-16,
+   "naive_double": 0.0
+  }
+ ],
+ "worst_relative_error": 4.84639690488583e-16
+}
