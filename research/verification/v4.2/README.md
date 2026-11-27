@@ -22,6 +22,12 @@ python research/verification/v4.1/test_v41_math.py Trig_Atlas_v4_2_Readability.h
 python research/verification/v4.1/test_v41_browser.py Trig_Atlas_v4_2_Readability.html
 ```
 
+Run the new display regression from the repository root:
+
+```sh
+python research/verification/v4.2/test_v42_display.py Trig_Atlas_v4_1_Reliability.html Trig_Atlas_v4_2_Readability.html
+```
+
 The new display test independently evaluates rendered expressions using Python's AST and Fraction, and verifies factored outputs using SymPy, rather than relying on the Atlas parser. It checks V4.1/V4.2 agreement before verifying display equivalence.
 
 ## Limits
