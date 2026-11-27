@@ -1,0 +1,18 @@
+240,000 evaluations, 12 expressions, 7 timed repetitions; seed 20261126
+direct: median 47.161 ms; range 46.003-49.821 ms
+cached: median 38.910 ms; range 38.027-40.530 ms
+atlas: median 21.748 ms; range 21.363-22.900 ms
+Speedup vs direct: 2.169x; vs cached: 1.789x
+Max scaled error: 6.66e-16; domain checks: 13/13
+sin sec -> tan
+sin sec cot -> 1
+sin cos tan -> sin^2
+cos cot sin sec -> cos
+sin tan csc sec -> sec*tan (= sec')
+csc sec cot -> csc^2
+cos tan sec cot -> 1
+sec csc sin cos -> 1
+tan cot sec sec -> sec^2
+sin sin cos cos -> sin^2*cos^2
+sin^4 csc^3 sec cos -> sin
+tan^3 cot^2 sec cos -> tan
